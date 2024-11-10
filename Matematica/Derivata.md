@@ -38,9 +38,6 @@ La derivata prima sinistra è il limite per $h->0^-$.
 
 Possiamo calcolare la derivata di una funzione in un punto generico $x$. In questo caso otteniamo una funzione derivata $f^{'}(x)$.
 
-## Equazione della retta tangente in $c$.
-Si calcola $m$ tramite la derivata.
-All'equazione $y-y_0=m(x-x_0)$ si sostituiscono  $x=c$, $y=f(c)$, $m=f^{'}(c)$ 
 
 ### Derivabilità
 Se una funzione è derivabile in $c$ è anche continua in $c$.
@@ -155,3 +152,29 @@ $$\lim_{h->0} \frac{log_a(1+\frac{h}{x})}{h}$$
 Dividiamo tutto per $x$
 $$\lim_{h->0}\frac{1}x* \frac{log_a(1+\frac{h}{x})}{\frac{h}x}$$
 $\frac{log_a(1+x)}{x}$ tende a $log_a(e)$
+
+
+# Esercizi
+## Equazione della retta tangente in $c$.
+Si calcola $m$ tramite la derivata.
+All'equazione $y-y_0=m(x-x_0)$ si sostituiscono  $x=c$, $y=f(c)$, $m=f^{'}(c)$ 
+
+## Rette tangenti condotte da un punto esterno $(x_0,y_0)$.
+Data una funzione $f(x)$ e un generico punto $c$ risolviamo l'equazione:
+$$y-f(c)=f^{'}(c)*(x-c)$$
+Imponiamo il passaggio per $(x_0,y_0)$ e troviamo $c$. Poi lo sostituiamo nell'equazione originale.
+
+## Grafici Tangenti.
+Dati $f(x)$ e $g(x)$, determina se c'è un punto dove sono tangenti.
+Deve esserci un punto dove:
+- Si incontrano
+- Hanno lo stesso coefficiente angolare
+Quindi poniamo il sistema:
+
+$$
+
+\begin{cases} 
+f(x)=g(x) \\
+f^{'}(x)=g^{'}(x)
+
+\end{cases}$$$$

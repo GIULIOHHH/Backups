@@ -53,7 +53,7 @@ Immaginari
 - [[Asintoto]]
 - [[Funzioni Continue]]
 - [[Grafico Probabile]]
-
+- [[Teoremi Sulle Derivate]]
 # __Fisica__
  
 ## [[Termologia]] 

@@ -240,7 +240,7 @@ Eating a lot of fiber can
 	1. High fiber foods are more fillings, take longer to eat and have less calories.
 2. relieves constipation 
 	1. increases stool size and softens it. Also helps if the stool is very watery
-3. Helps maintain bowel weight 
+3. Helps maintain bowel health 
 	1. Lowers the risk of hemorroids and diverticular disease (small pouches in the colon). Also lowers the risk of colorectal cancer. 
 	2. this is because some fiber is fermentedd in the colon.
 4. lowers risk of heart disease and cancer 
@@ -262,7 +262,7 @@ How to add more fiber:
 - Choose high fiber cereal or add tablespoons of unprocessed wheat bran to your cereal 
 - Consume at least half of all grains as whole greans. 
 	- Get breads with at least 2 grams of dietary fiber per serving 
-	- Try brown/fild rice, barley and whole wheat pasta
+	- Try brown/wild rice, barley and whole wheat pasta
 - When baking substitute half of white flower with whole grain.
 	- Add oatmeal and bran to sweets 
 - Eat 5 or more servings of fruit/vedgetables 
