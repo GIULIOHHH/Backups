@@ -7,7 +7,7 @@ Un punto non è derivabile se la derivata sinistra è diversa da quella destra, 
 
 # Teoremi
 I 3 teoremi si basano su 2 condizioni, una (o due) funzioni:
-1. sono continue nell'intervallo $I=[a,b]$
+1. sono continue nell'intervallo chiuso e limitato $I=[a,b]$
 2. sono derivabile nei punti interni
 ## Teorema di Rolle
 **Terza condizione**:
@@ -63,7 +63,7 @@ Esiste almeno una retta tangente parallela alla secante tra i due estremi.
 ### Teorema di Cauchy
 Due funzioni $f(x)$ e $g(x)$.
 **Terza condizione**:
-3. $g(x) \neq 0$ per ogni $x$ interno ad $I$.
+3. $g^`(x) \neq 0$ per ogni $x$ interno ad $I$.
  Esiste un punto interno dove:
  $$ 
 \frac{f(b)-f(a)}{g(b)-g(a)}=\frac{f^`(c)}{g^`(c)}
@@ -80,6 +80,7 @@ $$
 Data la funzione $h(x)=(g(x),f(x))$, esiste una retta tangente[] parallela alla retta secante per $h(b)$, $h(a)$, con coefficiente
 $$\frac{f^`(c)}{g^`(c)}
 $$
+>$f(x)$ è sopra perchè è la $y$.
 # Teorema di De l'Hospital
 Condizioni:
 1. Due funzioni $f(x)$ e $g(x)$ definite in $I$, intorno di $x_0$, ma non necessariamente in $x_0$.
@@ -87,6 +88,7 @@ Condizioni:
 2. Derivabili in $I$ ma non necessariamente in $x_0$.
 	1. _perchè facciamo il **limite** della derivata che tende a $x_0$_
 3. $g^`(x) \neq 0$ in ogni punto in $I-\{x_0\}$. 
+	1. _perchè facciamo il **limite** della derivata che tende a $x_0$_
 4. Esiste $$\lim_{x->x_{0}} \frac{f^`(x_0)}{g^`(x_0)}$$
 5. $lim_{x->x_{0}}\;f(x)=lim_{x->x_{0}}\;g(x)=$ ${0} / {\pm}\infty$
 	1. Se entrambe le funzioni sono definite in $x_0$ possiamo scrivere che $f(x)=g(x)=0$.
