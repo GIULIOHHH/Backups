@@ -81,6 +81,8 @@ La corrente indotta dalla **fem cinetica** ha un verso tale da [[Magneti#**CAMPO
 
 >[!info] Il campo magnetico indotto cerca di far ritornare $\Delta \Phi$ a $0$.
 
+Oppure può essere anche la corrente stessa ciò che si oppone alla variazione che del flusso magnetico che l'ha generata.
+
 La corrente crea un **campo magnetico indotto** che:
 - è opposto al campo magnetico esterno se $\Delta \Phi >0$
 	- Il campo magnetico esterno avvicinandosi aumenta $\Delta \Phi$, quindi opponendosi all'avvicinamento lo porta verso $0$.
@@ -175,6 +177,11 @@ $$
 $$
 >In Italia la fem efficace è di $230 V$.
 
+# Corrente di Foucault
+In un blocco metallico (conduttore) in cui c'è una variazione di flusso magnetico, si generano correnti indotte, o parassite, perchè la resistenza interna è molto piccola. 
+>Se non si vogliono (pk disperdono energia e riscaldano) si possono inserire superfici isolanti per aumentare la resistenza.
+
+>Oppure può essere usata per frenare i treni.
 # Mutua induzione/Autoinduzione
 Una bobina (primaria) è collegata a un generatore di corrente alternata, quindi genera (un flusso magnetico e) una fem.
 - Se è in un altra bobina (secodnaria), si ha **mutua induzione**.
