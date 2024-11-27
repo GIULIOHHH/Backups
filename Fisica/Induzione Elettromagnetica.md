@@ -255,7 +255,7 @@ $A*L$ è il volume $Vol$.
 $$
 W=\frac {B^2*Vol}{2*\mu_0}
 $$
->Dividendo per il volume otteniamo la densità di energia,
+>Dividendo per il volume otteniamo la densità di energia, risultato valido in generale in ogni punto dove c'è un campo magnetico. Quindi il campo magnetico può immagazzinare energia
 
 # Circuito RL
 Un circuito RL è formato da un [[Circuiti Elettrici|Resistore]] con resistenza $R$ e da un [[#Mutua induzione/Autoinduzione|Induttore]] con induttanza $L$.
@@ -263,8 +263,8 @@ Un circuito RL è formato da un [[Circuiti Elettrici|Resistore]] con resistenza 
 1. Quando l' interruttore è aperto la corrente è nulla.
 2. Se l'interruttore è chiuso la corrente inizia a crescere, nell'induttore si sviluppa una corrente che si [[#Legge di Lenz|oppone a questa crescita]].
 	1. L'intensità della [[Circuiti Elettrici# Leggi di Ohm|Legge di Ohm]] $I=V/R$, non viene raggiunta subito, ma dopo molto tempo.
-	2. $I$ cresce secondo:$$ I=\frac{V}{R}*(1-e^\frac{R*t}{L})$$
-	3. $e$ è elevato a $R*t/L$
+	2. $I$ cresce secondo:$$ I=\frac{V}{R}*(1-e^{-\frac{R*t}{L}})$$
+	3. $e$ è elevato a $-R*t/L$
 	4. ![[Pasted image 20241121163300.png|300]]
 3. **Quando la corrente scorre con valore costante, l'induttore non ha effetto.** (vale la [[Circuiti Elettrici# Leggi di Ohm|Legge di Ohm]])
 4. Se apriamo l'interruttore la corrente smette di circolare, nell'induttore si sviluppa una corrente che si [[#Legge di Lenz|oppone a questa diminuzione]].
