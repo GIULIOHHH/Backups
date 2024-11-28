@@ -323,7 +323,7 @@ $$
 tan(\theta)=\frac{X_L-X_C}{R}
 $$
 $$
-\overline P={I_{eff}}*{E}_{eff}*cos(\theta)
+\overline P={I_{eff}}*{\mathcal{E}}_{eff}*cos(\theta)
 $$
 La corrente è massima quando $X_{L}-X_C=0$.
 Ovvero quando si ha frequenza di risonanza, ottenuta sostituendo le due formule.
