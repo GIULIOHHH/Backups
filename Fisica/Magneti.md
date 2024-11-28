@@ -363,3 +363,28 @@ dove le correnti concatenate $I_k$ sono prese con il segno positivo se generano 
 >- Se la corrente scorre verso il basso il filo è concorde con la precorrenza oraria.
 
 
+
+# Ferromagnetismo
+Nelle molecole il magnetismo è determinato da:
+1. Gli elettroni che orbitando si comportano come sorgenti di elettricità e generano campo magnetico.
+2. Lo spin.
+Nella maggior parte delle sostanze i campi magnetici atomici si annullano a vicenda. Non succede nei materiali ferromagnetici.
+Essi hanno dei domini magnetici, ovvero regioni dove non avviene l'annullamento perchè gli elettroni hanno spin allineati. Le regioni si comportano come magneti.
+
+Spesso I domini magnetici si annullano a vicenda. Introducendo un campo esterno si possono magnetizzare i materiali ferromagnetici:
+1. Domini con campo parallelo a quello esterno crescono a spese degli altri domini vicini.
+2. I domini si allineano nella direzione del campo esterno.
+	1. A volte possono rimanere così, quindi si crea un magnete permanente.
+Per smagnetizzare un materiale ferromagnetico basta scaldarlo al di sopra della temperatura di curie, perchè si distrugge l'ordine dei domini.
+
+La relazione tra il campo esterno e quello complessivo forma il ciclo di isteresi.
+![[Pasted image 20241128155825.png]]
+$M$ è il campo esterno, $H$ il campo complessivo. La curva interna è la magnetizzazione iniziale. La curva esterna è come cambia il campo totale in funzione del campo esterno.
+>Per annullare il campo magnetico complessivo, è necessario applicare un campo magnetico nel verso opposto, ma nonostante questo rimane sempre una magnetizzazione residua.
+### Diamagnetici e paramagnetici
+- I materiali diamagnetici vengono respinti da un magnete.
+	- Momento magnetico atomico $=0$
+		- L'elettrone ruota attorno al campo esterno, determinando un campo magnetico aggiuntivo che si oppone a quello esterno.
+- I materiali paramagnetici vengono attratti.
+	- Momento magnetico atomico $\neq 0$
+		- Un campo magnetico esterno ruota tutta la molecola, in modo che il momento magnetico si allinei con esso, determinando un aumento del campo complessivo.
