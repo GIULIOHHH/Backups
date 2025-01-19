@@ -54,6 +54,7 @@ Immaginari
 - [[Funzioni Continue]]
 - [[Grafico Probabile]]
 - [[Teoremi Sulle Derivate]]
+- [[Massimi, Minimi e Flessi]]
 # __Fisica__
  
 ## [[Termologia]] 
@@ -113,3 +114,4 @@ Principi della Termodinamica:
 ## Quinto anno
 [[Magneti]]
 [[Induzione Elettromagnetica]]
+[[Equazioni Di Maxwelll]]

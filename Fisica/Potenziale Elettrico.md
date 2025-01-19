@@ -128,12 +128,15 @@ $$
 $$
 Questa formula dà solo la componente del campo elettrico lungo lo spostamento e non quella [[perpendicolare]] ad esso. 
 
+---
 # Circuitazione del Campo elettrico
 Prendiamo una curva chiusa. Scegliamo un verso di percorrenza e la dividiamo in porzioni così piccole che ciascuna di essa:
 - è rettilinea (indicata da un vettore spostamento tra i suoi estremi)
 - forma un angolo $\theta_k$ con il campo elettrico $E_k$.
 La circuitazione è quindi
+
 $$
+
 \Gamma=\sum\limits_{k} \overrightarrow{E}_k*\overrightarrow{\Delta l_k}  
 $$
 $$
