@@ -1,0 +1,1 @@
+Circuito con sia un condensatore che un resistore.

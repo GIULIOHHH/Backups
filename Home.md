@@ -114,4 +114,4 @@ Principi della Termodinamica:
 ## Quinto anno
 [[Magneti]]
 [[Induzione Elettromagnetica]]
-[[Equazioni Di Maxwelll]]
+[[Equazioni Di Maxwell]]

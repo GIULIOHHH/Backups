@@ -19,7 +19,7 @@ Ogni suo punto emette un onda sferica secondaria.
 Nell'istante successivo il nuovo [[Fronte d'onda]] diventa la superficie [[Tangente]] alle onde sferiche secondarie.
 ![[Pasted image 20231130150033.png|300]]
 # Raggi luminosi
-La luce si propaga in un mezzo materiale o nel vuoto (dove si ha la massima velocità di $c=3*10^{8} m/s$) ^7f21aa
+Le onde elettromagnetiche si propagano in un mezzo materiale o nel vuoto (dove si ha la massima velocità di $c=3*10^{8} m/s$) ^7f21aa
 >è anche la massima velocità raggiungibile da un corpo
 
 Può essere [[#Riflessione|Riflessa]] da alcuni tipi di oggetti e assorbita da altri.

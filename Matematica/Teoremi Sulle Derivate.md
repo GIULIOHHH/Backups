@@ -137,11 +137,11 @@ $$[f(x)]^{g(x)}=[e^{ln(f(x))}]^{g(x)}$$
 $$e^{lnf(x)*g(x)}$$
 Quindi il limite è uguale a
 $$
-e^{\lim_{x->x_{0}}[ln(x)*g(x))]}
+e^{\lim_{x->x_{0}}[lnf(x)*g(x))]}
 $$
 Quindi basta calcolare
 $$
-\lim_{x->x_{0}}[ln(x)*g(x))
+\lim_{x->x_{0}}[lnf(x)*g(x))
 $$
 Che è nella forma $0*\infty$.
 

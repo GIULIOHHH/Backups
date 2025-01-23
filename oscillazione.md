@@ -1,0 +1,1 @@
+Variazione dell'intensità in funzione del tempo.
