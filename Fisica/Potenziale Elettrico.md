@@ -261,3 +261,5 @@ $$
 
 ![[Pasted image 20240313160311.png|300]]
 ![[Pasted image 20240313160321.png|300]]
+
+^fb16ba

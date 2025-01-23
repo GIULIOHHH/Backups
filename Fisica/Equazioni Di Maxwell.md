@@ -276,9 +276,52 @@ Lo spettro è diviso in varie regioni, anche se il loro confine non è netto e s
 >- Uccidono i batteri con cui interagiscono. 
 >	- Usate per la radioterapia dei tumori e per la sterilizzazione di strumenti chirurgici.  
 
+# Energia
+
+## Valore istantaneo 
+### [[Energia Di Un Condensatore]]
+
+### [[Induzione Elettromagnetica#Dimostrazione|Energia Di Un Induttore]] 
 
 
-# AA
+Le onde elettromagnetiche trasportano energia.
+
+La densità di energia di un onda elettromagnetica nel vuoto è la somma tra quella elettrica e quella magnetica.
+
 $$
-E=E_0*sin(2*\pi*f*t+\frac{2*\pi*x}{\lambda})
+u=u_E+u_B
+$$
+$$
+u=\frac{1}{2}ε_0*E^2\;+\;\frac{1}{2*\mu_0}*B^2
+$$
+Campo elettrico e campo magnetico trasportano la stessa quantità di energia:
+$$
+\frac{1}{2}ε_0*E^2\;=\;\frac{1}{2*\mu_0}*B^2
+$$
+
+>[!info] Quindi raddoppiando/sostituendo una delle due ($u_e$ o $u_b$) possiamo ottenere $u$. 
+>$u=B^2/\mu_0$
+>$u=E^2*ε_0$
+
+Se facciamo la formula inversa
+$$
+E^2=\frac{1}{ε_0*\mu_0}*B^2
+$$
+Noi sappiamo che
+$$
+c=\frac{1}{\sqrt{\mu_0*ε_0}}
+$$
+Quindi sostituendo
+$$
+E^2=c^2*B^2
+$$
+$$
+E=c*B
+$$
+---
+[[Onda#Formula Matematica del movimento delle particelle|Il valore istantaneo di E/B si calcola così!]]
+## Valore medio
+Per calcolare il valore medio bisogna usare i valori medi di $E^2$ e $B^2$. Sostituiamo $E_{eff}$ e $B_{eff}$:
+$$
+E_{eff}=\frac{E}{\sqrt 2}
 $$
