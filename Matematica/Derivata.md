@@ -47,6 +47,7 @@ Le funzioni derivabili sono un sottoinsieme delle [[Funzioni Continue]].
 
 
 # Operazioni Tra derivate 
+
 # $D[k*f(x)]=k*D[f(x)]$
 >Perchè:
 $$\lim_{h->0} \frac{k*f(c+h)-k*f(c)}{h}=\lim_{h->0} k*\frac{f(c+h)-f(c)}{h}$$

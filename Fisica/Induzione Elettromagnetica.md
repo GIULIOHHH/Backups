@@ -252,12 +252,12 @@ W=\frac{1}{2}*L*I^2
 $$
 Possiamo sostituire $L$ con la formula Dell'[[#Autoinduttanza di un solenoide]].
 $$
-W=\frac{1}{2}*\mu_0*\frac{N^2}{L}*A*I^2
+W=\frac{1}{2}*\mu_0*\frac{N^2}{l}*A*I^2
 $$
 Possiamo sostituire $I$ con la formula inversa del [[Magneti#Solenoide|Solenoide]]:
 $$
-W=\frac {B^2*A*L}{2*\mu_0}$$
-$A*L$ è il volume $Vol$.
+W=\frac {B^2*A*l}{2*\mu_0}$$
+$A*l$ è il volume $Vol$.
 
 $$
 W=\frac {B^2*Vol}{2*\mu_0}

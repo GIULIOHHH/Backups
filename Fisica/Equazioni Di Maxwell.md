@@ -9,7 +9,7 @@ Dove $S$ è una superficie chiusa, $Q_T$ è la somma delle cariche nella superfi
 $$
 \Gamma_\gamma(\overrightarrow E)=0
 $$
-Dove $\gamma$ è una curva chiusa. Il valore è $0$ perchè il  [[Elettricità#Campo elettrico|Campo elettrico]] è un campo [[Conservativo]].
+Dove $\gamma$ è una curva chiusa. Il valore è $0$ perchè il [[Elettricità#Campo elettrico|Campo elettrico]] è un campo [[Conservativo]].
 3. Il [[Magneti#Teorema di Gauss|Flusso di un Campo Magnetico]] Magnetico è:
 $$
 \Phi_S(\overrightarrow B) =0
@@ -123,7 +123,7 @@ Maxwell generalizza il [[Magneti#Teorema di Ampère|Teorema di Ampère]] aggiung
 $$
 I_s=ε_0*\frac{\Delta \Phi (\overrightarrow E)}{\Delta t}
 $$
-Dove il [[Elettricità#Flusso elettrico|Flusso del Campo Elettrico]] è calcolato attraverso una superficie $\gamma$.
+Dove il [[Elettricità#Flusso elettrico|Flusso del Campo Elettrico]] è calcolato attraverso una superficie avente come bordo la curva $\gamma$.
 >La corrente di spostamento **non** è una corrente di cariche elettriche.
 
 Quindi il teorema diventa:
@@ -165,8 +165,13 @@ $$
 
 La corrente di spostamento è uguale alla corrente di conduzione che passa per il circuito. 
 
-
 La circuitazione del campo magnetico è indipendente dal tipo di corrente *(o di conduzione o di spostamento)* concatenata a $\gamma$.
+
+>Quali sono le equazioni di Maxwell?
+>$\Phi (E)=Q/ε_0$
+>$\Gamma(E)=-{\Delta \Phi(B)}/{\Delta t}$
+>$\Phi (B)=0$
+>$\Gamma(B)= \mu_{0}*(\sum\limits_{j} *I_j+ε_0*{\Delta \Phi (\overrightarrow E)}/{\Delta t})$
 
 # Onde Elettromagnetiche
 
@@ -177,7 +182,7 @@ La circuitazione del campo magnetico è indipendente dal tipo di corrente *(o di
 - E così via.
 
 L'[[oscillazione]] di un [[Elettricità#Campo elettrico|Campo elettrico]] in un punto porta all'[[oscillazione]] del [[Magneti#Campo magnetico|Campo magnetico]] in punti vicini e così via. 
-Questo si propaga tramite **Onda Elettromagnetica.**
+Il fenomeno si propaga tramite **Onda Elettromagnetica.**
 Le [[Onda|Onde meccaniche]] portano all'oscillazione di un mezzo materiale *(quindi non si propagano nel vuoto),* mentre nelle **Onde Elettromagnetiche** oscillano [[Magneti#Campo magnetico|Campo magnetico]] e [[Elettricità#Campo elettrico|Campo elettrico]].
 
 ![[Luce#^7f21aa]]
@@ -191,9 +196,9 @@ La [[Luce]] è un'onda elettromagnetica.
 ## Campi Vicini
 Abbiamo un alternatore *(Di periodo $T$)* connesso a due fili metallici in modo tale da formare un [[antenna]].
 
-- Il generatore porta ad un accumulo periodico di cariche agli estremi:
+- L'alternatore porta ad un accumulo periodico di cariche agli estremi:
 - Queste cariche generano un campo elettrico variabile che si propaga in tutte le dimensioni.
-- Il movimento di cariche forma una corrente che forma un [[Magneti#Campo magnetico|Campo magnetico]] variabile che si propaga in tutte le dimensione.
+- Il movimento di cariche forma una corrente che forma un [[Magneti#Campo magnetico|Campo magnetico]] variabile che si propaga in tutte le dimensioni.
 - [[Magneti#Campo magnetico|Campo magnetico]] e [[Elettricità#Campo elettrico|Campo elettrico]] sono perpendicolari tra loro e con la direzione di propagazione.
 	- Quindi le onde elettromagnetiche sono [[Onda#Trasversali|Onde Trasversali]].
 - In ogni punto i due campi oscillano in fase con la stessa frequenza dell'alternatore.
@@ -278,10 +283,11 @@ Lo spettro è diviso in varie regioni, anche se il loro confine non è netto e s
 
 # Energia
 
-## Valore istantaneo 
 ### [[Energia Di Un Condensatore]]
 
 ### [[Induzione Elettromagnetica#Dimostrazione|Energia Di Un Induttore]] 
+
+## Valore istantaneo 
 
 
 Le onde elettromagnetiche trasportano energia.
@@ -325,3 +331,38 @@ Per calcolare il valore medio bisogna usare i valori medi di $E^2$ e $B^2$. Sost
 $$
 E_{eff}=\frac{E}{\sqrt 2}
 $$
+## Irradiamento
+L'energia è determinata dall'irradiamento $S$:
+Potenza di un onda fratto la superficie che attraversa perpendicolarmente.
+$$
+S=\frac{P}{A}
+$$
+>Se la luce viene emessa in maniera uniforme l'area è quella di una sfera $A=4*\pi*r^2$
+Inoltre
+$$
+P=\frac{U}{t}
+$$
+quindi 
+$$
+S=\frac{U}{t*A}
+$$
+Inoltre, l'energia $U$ è la densità di energia $u$ per il volume $Vol$:
+$U=u*Vol$
+In tempo $t$ la luce attraversa $c*t$ spazio, quindi moltiplicandolo per L'area $A$ che attraversa otteniamo il volume.
+![[Pasted image 20250128171600.png|400]]
+$$
+U=u*c*t*A
+$$
+Quindi sostituendo
+$$
+S=\frac{u*c*t*A}{t*A}
+$$
+semplificando:
+$$
+S=u*c
+$$
+>Possiamo sostituire a $u$ le [[#Valore istantaneo|formule per il valore istantaneo della densità di energia.]]
+>$S=c*E^2*ε_0$
+>$S=c*B^2/\mu_0$
+>In questo modo otteniamo i valori istantanei.
+>Per quelli medi usiamo I [[#Valore medio|Valori efficaci]].

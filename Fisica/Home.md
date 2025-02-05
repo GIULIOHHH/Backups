@@ -10,6 +10,7 @@
 - [[Secante-Cosecante]] 
 - [[Angoli Associati]]
 - [[Angoli Particolari]]
+- [[Angoli Equivalenti]]
 ### _quarto_
 - [[Formule Goniometriche]] 
 - [[Equazioni Goniometriche]] 

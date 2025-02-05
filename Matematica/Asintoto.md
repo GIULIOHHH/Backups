@@ -4,7 +4,7 @@ tags: matematica, geometria_analitica
 Retta dove la distanza di un punto del grafico da essa tende a 0 quando l'ascissa o l'ordinata (del punto) tende a $\infty$.
 ![[Pasted image 20230921151843.png|300]]
 
-# Asintoto Verticale
+#   Asintoto Verticale
 ![[Pasted image 20241009161208.png]]
 $x=n$ è un asintoto verticale se
 $$\lim_{x->n}=\pm \infty$$
