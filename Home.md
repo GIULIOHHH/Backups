@@ -56,6 +56,8 @@ Immaginari
 - [[Grafico Probabile]]
 - [[Teoremi Sulle Derivate]]
 - [[Massimi, Minimi e Flessi]]
+- [[Risoluzione Approssimata]]
+- [[Integrali Indefiniti]]
 # __Fisica__
  
 ## [[Termologia]] 
@@ -116,3 +118,4 @@ Principi della Termodinamica:
 [[Magneti]]
 [[Induzione Elettromagnetica]]
 [[Equazioni Di Maxwell]]
+[[Relatività Ristretta]]

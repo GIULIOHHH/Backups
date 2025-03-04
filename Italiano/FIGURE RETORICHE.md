@@ -93,3 +93,7 @@ Indicare un significato specifico attraverso un nome proprio o comune
 # Sintassi
 ## Enjambement
 Divisione dall'andare a capo di un periodo in 2 versi.
+
+# Figure retoriche Datensche
+## Endiadi
+Quando un concetto è espresso da due termini con una congiunzione.

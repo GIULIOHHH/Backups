@@ -77,7 +77,7 @@ $$
 \frac{\Delta y_f}{\Delta y_g}=\frac{f^`(c)}{g^`(c)}
 $$
 
-Data la funzione $h(x)=(g(x),f(x))$, esiste una retta tangente[] parallela alla retta secante per $h(b)$, $h(a)$, con coefficiente
+Data la funzione $h(x)=(g(x),f(x))$, esiste una retta tangente parallela alla retta secante per $h(b)$, $h(a)$, con coefficiente
 $$\frac{f^`(c)}{g^`(c)}
 $$
 >$f(x)$ è sopra perchè è la $y$.
@@ -133,8 +133,8 @@ Cerchiamo di scrivere la differenza come prodotto o quoziente di funzioni.
 ### $0^{0}$ $\infty^0$ $1^\infty$
 Bisogna calcolare $$\lim_{x->x_{0}} f(x)^{g(x)}$$
 Dato che $x=e^{lnx}$
-$$[f(x)]^{g(x)}=[e^{ln(f(x))}]^{g(x)}$$
-$$e^{lnf(x)*g(x)}$$
+$$[f(x)]^{g(x)}=e^{ln(f(x)^{g(x)})}$$
+$$e^{ln(f(x))*g(x)}$$
 Quindi il limite è uguale a
 $$
 e^{\lim_{x->x_{0}}[lnf(x)*g(x))]}

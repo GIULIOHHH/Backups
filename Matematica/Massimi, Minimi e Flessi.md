@@ -79,3 +79,10 @@ Data una funzione $f(x)$, definita e continua in un intorno completo $I$ di un p
 >**Trovare massimo e minimo assoluti in una funzione continua.**
 >1. Se la funzione è definita in un intervallo chiuso e limitato, [[Funzioni Continue#Weierstrass|Il teorema di Weierstrass]] garantisce l'esistenza di massimo e minimo. Si confrontano tutti i punti estremanti relativi + gli estremi.
 >2. Altrimenti, potrebbero non esistere. Calcoliamo i limiti agli estremi dell'intervallo e vediamo se sono finiti o infiniti.
+
+# Trovare i flessi
+>- Facciamo la derivata seconda. 
+>	- I punti dove non è definita sono flessi a tangente verticale.
+>- Studiamo il segno.
+>	- I punti dove il segno cambia sono flessi a tangente orizzontale o obliqua.
+>		- Orrizzontale se sostituendoli alla derivata prima otteniamo zero.
