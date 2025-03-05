@@ -43,7 +43,7 @@ Quindi non è possibile capire se un sistema di riferimento è in moto solo osse
 >- a osservatori che si muovono con velocità molto vicine alla luce.
 
 
-1. **[[#Relatività Galileiana|Principio di Relatività]]:** Le leggi fisiche sono assolute e uguali in qualsiasi [[Sistema di Riferimento Inerziale]].
+1. **[[#Relatività Galileiana|Principio di Relatività]]:** Le leggi fisiche sono uguali in qualsiasi [[Sistema di Riferimento Inerziale]]. Non esiste sistema di riferimento privilegiato.
 2. **Principio di Invarianza della velocità della luce:** La [[ Luce#^7f21aa|Velocità della Luce nel vuoto]] ha sempre lo stesso valore in qualsiasi [[Sistema di Riferimento Inerziale]] *(Indipendentemente dalla velocità relativa tra sorgente e osservatore).*
 
 >Soluzione alle Particelle in Moto
@@ -79,28 +79,11 @@ $$
 \Delta t_{2->3}=t_3-t_{2}=\frac{T}{2}+\frac{2*d*v}{c^2-v^2}
 $$
 6. Quindi i due valori dovrebbero essere diversi, ma osservando **sono uguali a $T/2$**.
-7. Questo è possibile solo se $c$ rimane costante.
-# Simultaneità
+7. Questo è possibile solo se la velocità della luce rimane costante.
+# [Simultaneità](https://www.youtube.com/watch?v=SV6mzHH41gk)
 1. Se due eventi avvengono contemporaneamente **nello stesso punto,** risultano simultanei in tutti i sistemi inerziali.
 2. Altrimenti la simultaneità di due eventi dipende dal moto dell'osservatore.
 
-- In un treno (a velocità $v$) sono posizionate due luci.
-- Un osservatore si trova sul treno a metà tra di loro.
-- Un osservatore si trova a terra.
-- Le luci si accendono contemporaneamente quando si allineano i due osservatori.
-![[Pasted image 20250227212122.png]]
-- Per l'uomo sul treno, le due luci si accendono simultaneamente, $t_1=L_1/c$ secondi prima che lui le abbia viste.
-> $t_1=L_1/c$ è il tempo che la luce impiega per arrivare.
-
-- Per l'uomo a terra, le due luci non si accendono simultaneamente:
-- Per lui:
-	-  La luce rossa impiega $t_r$ per arrivare. 
-	- $t_r$ secondi fà la luce rossa era più lontana di quella verde. 
-		-  *($L_2$ è la lunghezza di metà treno per me.)
-		- La luce rossa era a distanza $d_r=c*t_r= L_2+v*t_r$ 
-		- La luce verde era a distanza $d_v=c*t_v=L_2-v*t_v$
-
-# [Simultaneità](https://www.youtube.com/watch?v=SV6mzHH41gk)
 Abbiamo un treno con un osservatore $A$. Un osservatore $B$ è al di fuori del treno.
 
 Due fulmini colpiscono simultaneamente lati opposti del treno. 
@@ -109,7 +92,7 @@ Due fulmini colpiscono simultaneamente lati opposti del treno.
 - Per $A$, il fulmine destro avviene prima.
 	- Perchè $A$ si muove verso la luce generata dal fulmine destro.
 ![[Pasted image 20250302195008.png]]
->- Se $A$ vedesse i due fulmini come simultanei, $B$ dovrebbe vedere il fulmine destro colpire prima.
+>- Se $A$ vedesse i due fulmini come simultanei, $B$ dovrebbe vedere il fulmine sinistro colpire prima.
 >- La simultaneità dipende dal sistema di riferimento.
 
 # Orologi a Luce
@@ -118,7 +101,7 @@ Due fulmini colpiscono simultaneamente lati opposti del treno.
 2. La luce colpisce una parete e viene riflessa.
 3. Ritorna alla prima parete e viene rilevata.
 4. Viene registrato un *tic*.
-5. Una sorgente emette della luce.
+5. Una sorgente emette della luce...
 # Dilatazione Temporale
 
 Un'astronauta su un astronave e un'osservatore a terra hanno due [[#Orologi a Luce]].
@@ -143,22 +126,20 @@ Un'astronauta su un astronave e un'osservatore a terra hanno due [[#Orologi a Lu
 ![[Pasted image 20250302212908.png]]
 1. Osservando da terra, nel tempo di un *tic* spaziale, l'astronave si muove
 $$
-2L=\frac{v}{\Delta t}
+2L={v}*{\Delta t}
 $$
 >Usiamo $\Delta t$ perchè stiamo osservando da terra.
 1. La luce invece percorre una distanza di $2s$. Usando Pitagora
 $$2s=2*\sqrt{L^2+D^2}$$
 1. Sostituendo $L$
-$2s=2*\sqrt{(\frac{v}{\Delta t})^2+D^2}$
+$$2s=2*\sqrt{(\frac{v*\Delta t}{2})^2+D^2}$$
 1. La formula inversa della definizione del tempo dilatato è
 2. 
 $$
 2s=c*\Delta t
 $$
 1. Quindi sostituendo
-$$
-c*\Delta t=2*\sqrt{(\frac{v}{\Delta t})^2+D^2}
-$$
+$$c*\Delta t=2*\sqrt{(\frac{v*\Delta t}{2})^2+D^2}$$
 1. Elevando al quadrato e dividendo per $c$:
 $$
 \Delta t=\frac{2D}{c}*\frac{1}{\sqrt{1-(\frac{v}{c})^2}}
@@ -182,6 +163,7 @@ Quindi:
 $$
 \Delta t=\gamma*\Delta t_0
 $$
+
 # Contrazione delle Lunghezze
 Una navicella si muove dalla terra alla luna a velocità $v$. 
 >Sia l'osservatore a terra che l'astronauta sono d'accordo sulla velocità relativa. 
@@ -215,7 +197,7 @@ $$
 La contrazione delle lunghezze avviene solo lungo la direzione del moto.
 
 >Se non fosse così un oggetto di altezza $h_0$ a riposo sarebbe più basso se visto da un sistema in moto.
->- Due osservatori tenendo righelli in mano si muovono l'uno verso l'altro.
+>- Due osservatori tenendo righelli in mano si avvicinano.
 >- Per un osservatore il righello dell'altro risulta più piccolo del proprio.
 >- Quando si incontrano, per un istante i due righelli si trovano affiancati, quindi è oggettivamente possibile capire quale dei due osservatori è in moto.
 >- Questo contraddice [[#Postulati della Relatività Ristretta|Il principio di relatività]].
