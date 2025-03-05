@@ -136,7 +136,8 @@ Un'astronauta su un astronave e un'osservatore a terra hanno due [[#Orologi a Lu
 		1. Il **Tempo Dilatato** $\Delta t$ è il tempo che l'osservatore a terra misura nell'astronave.
 ![[Pasted image 20250302205455.png]]
 
->Il mio orologio batte il tempo più velocemente di qualsiasi altro orologio che si sta muovendo rispetto a me. $\Delta t> \Delta t_0$.
+>- Il mio orologio batte il tempo più velocemente di qualsiasi altro orologio che si sta muovendo rispetto a me. $\Delta t> \Delta t_0$.
+>- Per entrambi gli osservatori l'orologio dell'altro è più lento del proprio.
 
 ## Dimostrazione Formula
 ![[Pasted image 20250302212908.png]]
@@ -150,6 +151,7 @@ $$2s=2*\sqrt{L^2+D^2}$$
 1. Sostituendo $L$
 $2s=2*\sqrt{(\frac{v}{\Delta t})^2+D^2}$
 1. La formula inversa della definizione del tempo dilatato è
+2. 
 $$
 2s=c*\Delta t
 $$
@@ -180,5 +182,44 @@ Quindi:
 $$
 \Delta t=\gamma*\Delta t_0
 $$
+# Contrazione delle Lunghezze
+Una navicella si muove dalla terra alla luna a velocità $v$. 
+>Sia l'osservatore a terra che l'astronauta sono d'accordo sulla velocità relativa. 
 
+Dato che $v$ è uguale per entrambi e il tempo [[#Dilatazione Temporale|risulta dilatato]], deve variare anche lo spazio.
+>perchè $v=s/t$
+
+L'osservatore che misura il tempo più breve misura la lunghezza più breve.
+>Se l'osservatore terrestre misura un intervallo più lungo per mantenere uguale la velocità deve misurare anche una lunghezza maggiore.
+
+- $L$ è la distanza misurata da un osservatore in moto da un punto all'altro.
+- $L_0$ è la **Lunghezza Propria**, misurata da un osservatore a riposo **rispetto ai due punti**.
+
+$L$ è sempre minore di $L_0$.
+
+1. L'astronauta misura $v=L/{\Delta}t_0$
+2. L'osservatore terrestre misura $v=L_0/\Delta t$
+3. Uguagliando le $v$:
+$$
+\frac{L}{\Delta t_0}=\frac{L_0}{\Delta t}
+$$
+Sostituendo le formule del tempo:
+$$
+L=\frac{L_0}{\gamma}
+$$
+
+>Per entrambi gli osservatori le lunghezze dell'altro sono contratte.
+
+>$L_0$ e $\Delta t_0$ non possono essere misurati dalla stessa persona, perchè $L_0$ richiede una quiete rispetto all'oggetto in moto e $\Delta t_0$ richiede un sistema solidale all'oggetto in moto. 
+### Direzione del moto
+La contrazione delle lunghezze avviene solo lungo la direzione del moto.
+
+>Se non fosse così un oggetto di altezza $h_0$ a riposo sarebbe più basso se visto da un sistema in moto.
+>- Due osservatori tenendo righelli in mano si muovono l'uno verso l'altro.
+>- Per un osservatore il righello dell'altro risulta più piccolo del proprio.
+>- Quando si incontrano, per un istante i due righelli si trovano affiancati, quindi è oggettivamente possibile capire quale dei due osservatori è in moto.
+>- Questo contraddice [[#Postulati della Relatività Ristretta|Il principio di relatività]].
+>- Nella direzione del moto invece non si può fare il confronto istantaneo tra i due oggetti (perchè uno è più lungo)
+>- Bisogna registrare l’istante in cui passa il primo estremo e l’istante in cui passa il secondo estremo.
+>- Il tempo di passaggio dipende dal sistema di riferimento e quindi anche la lunghezza misurata cambia.
 # Trasformazioni di Lorenz

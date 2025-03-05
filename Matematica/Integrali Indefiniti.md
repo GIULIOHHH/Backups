@@ -20,8 +20,13 @@ Si indica con:
 $$
 \int f(x) dx
 $$
->- $f(x)$ è la funzione integranda
->- $x$ è la variabile di integrazione
+- $f(x)$ è la funzione integranda
+- $x$ è la variabile di integrazione
+- $dx$ è il [differenziale](https://www.youmath.it/domande-a-risposte/view/6580-dx-integrali.html) di $x$
+	- Chiarifica secondo quale variabile stiamo integrando
+	- rappresenta la fine dell'integrale, come delle parentesi.
+
+
 La primitiva che si ottiene se $c=0$ (ovvero $F(x)$) è detta primitiva fondamentale.
 
 >Quindi $$D[\int f(x)dx]=f(x)$$
@@ -100,6 +105,7 @@ $$
 $$
 Il resto ha sempre grado minore del denominatore.
 
+Quindi se abbiamo il numeratore di grado maggiore possiamo fare la [[Divisione Tra polinomi]]
 # Denominatore di **Secondo Grado**:
 >La funzione è del tipo:
 >$$
@@ -157,6 +163,11 @@ $$
 - Si rende il numeratore la derivata del denominatore.
 	- Se per farlo devo aggiungere qualcosa, creo un altra frazione con lo stesso denominatore dove lo sottraggo.
 - Si calcolano i due integrali separatamente.
+>[!quote] Esempio
+>$$\int \frac{2x}{x^2+4x+5}dx$$
+>Devo rendere $2x$ -->$2x+4$.
+>$$\int \frac{2x+4}{x^2+4x+5}-\frac{4}{x^2+4x+5}dx$$
+>Integro separatamente.
 # Denominatore di grado superiore al secondo
 - [[Come trasformare una frazione in somma di frazioni|Si trasforma la frazione in somma di frazioni]]
 - Si integrano separatamente.

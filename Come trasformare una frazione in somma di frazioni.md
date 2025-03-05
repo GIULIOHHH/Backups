@@ -21,7 +21,7 @@ $$
 1. Abbiamo:
 $$
 \frac{px+q}{ax^2+bx+c}=\frac{A}{a(x-x_1)}+\frac{B}{(x-x_2)}$$
-1. Calcoliamo la somma della funzione a destra:
+2. Calcoliamo la somma della funzione a destra:
 $$
 \frac{A(x-x_2)+B(ax-ax_1)}{ax^2+bx+c}
 $$
@@ -31,9 +31,10 @@ $$
 $$
 \frac{x(A+B)+(-Ax_2-Bax_1)}{ax^2+bx+c}
 $$
-1. Quindi 
+3. Quindi 
 $$
 \frac{px+q}{ax^2+bx+c}=\frac{x(A+B)+(-Ax_2-Bax_1)}{ax^2+bx+c}
 $$
-1. Dato che le due funzioni sono uguali, $(A+B)=p$ e $(-Ax_2-Bax_1)=q$.
-2. Facendo il sistema possiamo ottenere $A$ e $B$.
+4. Dato che le due funzioni sono uguali, $(A+B)=p$ e $(-Ax_2-Bax_1)=q$.
+>Questo vale per via del principio di identità dei polinomi.
+5. Facendo il sistema possiamo ottenere $A$ e $B$.
