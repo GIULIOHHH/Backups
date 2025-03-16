@@ -48,8 +48,8 @@ Immaginari
 - [[Geometria analitica in 3d]]
 - [[triangolo]] 
 - [[trigonometria]]
-
 ## Quinto Anno
+- [[Probabilità]]
 - [[Derivata]]
 - [[Asintoto]]
 - [[Funzioni Continue]]
@@ -59,7 +59,6 @@ Immaginari
 - [[Risoluzione Approssimata]]
 - [[Integrali Indefiniti]]
 # __Fisica__
- 
 ## [[Termologia]] 
 - [[Temperatura]] 
 - [[Calore]]
@@ -119,3 +118,7 @@ Principi della Termodinamica:
 [[Induzione Elettromagnetica]]
 [[Equazioni Di Maxwell]]
 [[Relatività Ristretta]]
+
+
+# Chimica
+[[Capitolo Alcani Alcheni]]

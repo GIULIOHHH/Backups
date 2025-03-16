@@ -216,7 +216,7 @@ $$
 k=\frac{1}{4*\pi*ε_0}
 $$
 $$
-\Phi_( \overrightarrow{E})=\frac{1}{4*\pi*ε_0}*\frac{q}{r^2}*4*\pi*r^2
+\Phi( \overrightarrow{E})=\frac{1}{4*\pi*ε_0}*\frac{q}{r^2}*4*\pi*r^2
 $$
 Semplificando otteniamo la formula.
 
