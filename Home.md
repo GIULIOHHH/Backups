@@ -58,6 +58,8 @@ Immaginari
 - [[Massimi, Minimi e Flessi]]
 - [[Risoluzione Approssimata]]
 - [[Integrali Indefiniti]]
+- [[Integrali Definiti]]
+---
 # __Fisica__
 ## [[Termologia]] 
 - [[Temperatura]] 
