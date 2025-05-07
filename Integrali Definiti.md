@@ -119,14 +119,42 @@ $$
 # Come calcolare gli integrali Definiti
 
 L'integrale definito di $f(x)$ è la differenza tra i valori assunti da una primitiva $F(x)$ negli estremi dell'intervallo.
-# Volume del solido di rotazione attorno all'asse x
+# Volume di un solido
+>Abbiamo una funzione $f(x)$. Per ogni posizione $x_0$, $f(x_0)$ ci dà l'altezza in quel punto. Se integriamo tutte le altezze otteniamo l'area sotto la curva.
+
+Abbiamo una funzione $A(x)$. Per ogni posizione $x_0$, $A(x)$ ci dà l'area in quel punto. Se integriamo tutte le aree otteniamo il volume.
+![[3D.png]]
+>[!Done] Formula
+>Il volume di un solido da $a$ a $b$ è:
+>$$\int_a^{b}{A(x)}$$
+>Dove $A(x_0)$ è l'area in un punto $x_0$.
+
+>Solitamente $A(x)$ dipende dalla funzione bidimensionale $f(x)$
+
+# Volume del solido di rotazione attorno all'asse x/y
 Il solido di rotazione è formato da tanti cerchi.
-L'area del cerchio è $A=\pi*r^2$. In ogni punto $x_0$ $r=f(x_0)$, quindi sostituendo $r$ con l'area del trapezoide otteniamo il volume.
+L'area del cerchio è $A=\pi*r^2$. 
+
+In ogni punto $x_0$ $r=f(x_0)$, quindi dato che sono tanti cerchi:
+$$
+Vol=\int_a^b\pi*[f(x)]^2
+$$
 ![[Pasted image 20250427181058.png]]
 $$
-A=\pi*[\int_a^bf(x)]^2
+Vol=\pi*\int_a^b[f(x)]^2
 $$
-
+## Traslare la funzione
+>[!quote]
+>Calcola il volume del solido di rotazione di $f(x)$ attorno alla retta $y=k$.
+>![[trasla.png]]
+>Dobbiamo traslare la funzione.
+>Ogni valore di $y$ deve essere $k$ unità più basso. 
+>$$Y=y-k$$
+>Le $x$ non devono cambiare.
+>$$
+>X=x
+>$$
+>Sostituendo $Y$ a $y$ e $X$ a $x$ trasliamo la funzione.
 # Teorema fondamentale del calcolo integrale (fare meglio)
 
 >![done] Formula
@@ -139,6 +167,8 @@ $$
 F^{'}(x)=f(x)
 $$
 quindi $F(x)$ è una primitiva di $f(x)$
+
+# Integrali Impropri
 # Esercizi
 
 ## Area compresa tra due curve
