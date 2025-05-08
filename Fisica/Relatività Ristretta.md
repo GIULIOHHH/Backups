@@ -163,7 +163,7 @@ Quindi:
 $$
 \Delta t=\gamma*\Delta t_0
 $$
-
+>In generale in $\gamma$ $v$ è la velocità con cui si muove l'oggetto rispetto ad un sistema.
 # Contrazione delle Lunghezze
 Una navicella si muove dalla terra alla luna a velocità $v$. 
 >Sia l'osservatore a terra che l'astronauta sono d'accordo sulla velocità relativa. 
@@ -204,4 +204,107 @@ La contrazione delle lunghezze avviene solo lungo la direzione del moto.
 >- Nella direzione del moto invece non si può fare il confronto istantaneo tra i due oggetti (perchè uno è più lungo)
 >- Bisogna registrare l’istante in cui passa il primo estremo e l’istante in cui passa il secondo estremo.
 >- Il tempo di passaggio dipende dal sistema di riferimento e quindi anche la lunghezza misurata cambia.
+
+# Dinamica
+Le [[Leggi di Newton]] si mantengono?
+#### Principio di Inerzia
+Si.
+#### $F=m*a$
+No, perchè si potrebbe avere un accelerazione oltre $c$. Bisogna riscriverlo come:
+$$
+\overrightarrow{F}=
+\frac{\Delta \overrightarrow{p}}{\Delta t}
+$$
+dove $\overrightarrow{p}$ è la [[Quantità Di Moto]].
+
+$$
+\overrightarrow p=\gamma*m*\overrightarrow v
+$$
+
+Se applichiamo una forza costante la quantità di moto cresce e la velocità tende a $c$.
+>Se facciamo la formula inversa per $v$, per $p$ che tende all'infinito $v$ tende a $c$.
+### Conservazione del moto
+La [[Quantità Di Moto]] relativistica di un sistema isolato si conserva in tutti i sistemi di riferimento inerziali.
+>Non possiamo formularlo in termini di azione e reazione perchè non esiste la simultaneità.
+# Relazione tra massa e energia
+Un corpo di massa $m$ è fermo in un sistema di riferimento $K^{`}$.
+Riceve due pacchetti di radiazione elettromagnetica di energia $ε$. 
+La [[Quantità Di Moto#Nel caso di particelle prive di massa|Quantità di moto]] è quindi:
+$$
+p=+\frac{ε}{c}
+$$
+per quello diretto verso l'alto e
+$$
+p=-\frac{ε}{c}
+$$
+per quello diretto verso il basso.
+
+La quantità di moto totale è nulla, così come quella finale.
+![[Pasted image 20250508154342.png]]
+Un sistema di riferimento $K$ si muove rispetto a $K^{`}$ con velocità $-v$ nell'asse $x$.
+Nel sistema di riferimento $K$, il corpo si muove a velocità $v$ e quantità di moto $p_m=m*v*\gamma$ (nell'asse $x$.)
+
+I fotoni si muovono sempre alla velocità della luce $c$, ma non è tutta verticale come in $K^{`}$. La velocità orizzontale è data da:
+$$
+v=c*sin(\alpha)
+$$
+![[Pasted image 20250508155220.png]]
+La [[Quantità Di Moto#Nel caso di particelle prive di massa|Quantità di moto]] dei fotoni si può dividere nelle componenti:
+$$
+p_{x}=+\frac{ε}{c}*sin(\alpha)
+$$
+$$
+p_{y}=\pm\frac{ε}{c}*cos(\alpha)
+$$
+La somma è:
+$$
+p_f=p_m+p_x+p_v$$
+$$
+p_f=m*v*\gamma\;+2*\frac{ε}{c}*sin(\alpha)+0
+$$
+Quindi la [[Quantità Di Moto#Nel caso di particelle prive di massa|Quantità di moto]] finale è solo lungo l'asse x.
+La quantità di moto $p_x$ cambia la velocità con cui si muove il corpo, che diventa $v_f$, quindi $\gamma$ diventa $\gamma_f$ e possiamo scrivere la [[Quantità Di Moto#Nel caso di particelle prive di massa|Quantità di moto]] finale come
+$$
+p_f=m*v_f*\gamma_f
+$$
+I due devono essere uguali, quindi questa DOVREBBE essere vera:
+$$
+m*v*\gamma\;+2*\frac{ε}{c}*sin(\alpha)=m*v_f*\gamma_f
+$$
+In $K^{`}$ la velocità del corpo non cambia, quindi in $K$ $v=v_f$, ma questo renderebbe falsa l'equazione di sopra.
+Ma cambiando la massa entrambi possono essere veri:
+$$
+m*v*\gamma+2*\frac{ε}{c}*sin(\alpha)=m_f*v*\gamma
+$$
+Riscrivendo:
+$$
+m_f=m+\frac{2ε}{\gamma*c^2}
+$$
+Possiamo indicare la quantità di energia aggiunta con $\Delta E$:
+$$
+m_f=m+\frac{\Delta E}{\gamma*c^2}
+$$
+Spostando $m$ a sinistra otteniamo
+$$
+\Delta m=\frac{\Delta E}{\gamma*c^2}
+$$
+**Applicando una quantità di energia ad un corpo senza modificarne la velocità, ne si modifica la massa**.
+La massa di un corpo è una misura della sua energia.
+L'energia equivalente alla massa si misura con:
+$$
+E=\gamma*m*c^2
+$$
+Se il corpo è fermo misuriamo l'energia a riposo $E_0$.
+$$
+E_0=m*c^2
+$$
+Se il corpo si muove possiede l'energia cinetica:
+$$
+E=K+E_0
+$$
+>L'energia totale di un corpo è l'energia e riposo più l'energia cinetica.
+
+Dalla formula inversa otteniamo l'energia cinetica.
+>Non ha niente a che fare con l'energia cinetica classica, ma per velocità molto bassa si può approssimare a $E=m*v^2/2$
 # Trasformazioni di Lorenz
+

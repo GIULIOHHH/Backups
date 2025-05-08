@@ -216,11 +216,13 @@ $$
 Quindi la capacità deel condenstatore aumenta inserendo il dielettrico.
 
 # Energia di un condensatore 
-Caricando un condensatore, viene compiuto un lavoro per trasferira cariche da un armatura all'altra.
+Caricando un condensatore, viene compiuto un lavoro per trasferire cariche da un armatura all'altra.
 $$
 L=q*\overline{V}
 $$
-Spostando una carica varia il potenziale, quindi è necessario un lavoro maggiore. Per questo usiamo la differenza di potenziale media, che è la metà del potenziale finale 
+Spostando una carica varia il potenziale, quindi è necessario un lavoro maggiore. 
+>Perchè $q=Cv$
+Per questo usiamo la differenza di potenziale media, che è la metà del potenziale finale 
 $$
 L=\frac{1}{2}*q*V
 $$

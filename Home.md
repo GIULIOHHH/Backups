@@ -120,7 +120,7 @@ Principi della Termodinamica:
 [[Induzione Elettromagnetica]]
 [[Equazioni Di Maxwell]]
 [[Relatività Ristretta]]
-
+[[Particelle e Onde]]
 
 # Chimica
 [[Capitolo Alcani Alcheni]]

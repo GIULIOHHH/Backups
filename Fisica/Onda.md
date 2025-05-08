@@ -5,9 +5,14 @@ tags: fisica, Onde
 - [[Suono]]
 
 # Definizione
-Un onda è una perturbazione di un mezzo materiale, che trasporta energia, ma non materia. ^982138
+Un onda è una perturbazione che trasporta energia, ma non materia. ^982138
 
+
+Le onde meccaniche perturbano un mezzo materiale.
 Quando un onda si propaga sposta le particelle del mezzo materiale dalla loro [[posizione di equilibrio]].
+
+# Principio di sovrapposizione
+Se due onde agiscono su uno stesso punto, la risultante è la loro somma algebrica.
 
 # Tipi di Onde
 >Le onde del mare sono sia longitudinali che trasversali

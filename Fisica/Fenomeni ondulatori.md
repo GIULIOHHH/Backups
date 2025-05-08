@@ -30,7 +30,7 @@ Due onde sono in __opposizione di fase__ se hanno la stessa [[Frequenza]]
 e si sovrappongono 
 - compressione-rarefazione
 e viceversa. L'interferenza è __DISTRUTTIVA__
-Le onde hanno una diffrenza di camminorispetto al punto di sovrapposizione pari a un numero intero di lunghezze d'onda + mezza lunghezza d'onda.
+Le onde hanno una diffrenza di cammino rispetto al punto di sovrapposizione pari a un numero intero di lunghezze d'onda + mezza lunghezza d'onda.
 $$
 |l_2-l_1|=(m+\frac{1}{2})*\lambda
 $$
