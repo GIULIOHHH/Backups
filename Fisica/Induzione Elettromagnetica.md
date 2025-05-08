@@ -181,6 +181,8 @@ In un blocco metallico (conduttore) in cui c'è una variazione di flusso magneti
 >Se non si vogliono (pk disperdono energia e riscaldano) si possono inserire superfici isolanti per aumentare la resistenza.
 
 >Oppure può essere usata per frenare i treni.
+
+>Fare meglio
 # Mutua induzione/Autoinduzione
 Una bobina (primaria) è collegata a un generatore di corrente alternata, quindi genera (un flusso magnetico e) una fem.
 - Se è in un altra bobina (secodnaria), si ha **mutua induzione**.
