@@ -66,7 +66,7 @@ $$
 $$
 >Questo è il valore medio. Facendo le derivate otteniamo il valore istantaneo.
 
-La circuitazione del [[Induzione Elettromagnetica#Induzione|Campo Elettrico Indotto]] non è $0$, quindi il  [[Induzione Elettromagnetica#Induzione|Campo Elettrico Indotto]] non è [[Conservativo]].
+La circuitazione del [[Induzione Elettromagnetica#Induzione|Campo Elettrico Indotto]] non è $0$, quindi il [[Induzione Elettromagnetica#Induzione|Campo Elettrico Indotto]] non è [[Conservativo]].
 
 [[Induzione Elettromagnetica#Legge di Faraday-Neumann-Lenz|La Legge di Faraday-Neumann-Lenz]] è una generalizzazione della [[Potenziale Elettrico|Circuitazione di un Campo Elettrico]]:
 $\Gamma_\gamma(\overrightarrow E)=0$ quando il campo magnetico rimane costante ($\Delta \Phi(\overrightarrow B)=0$).
