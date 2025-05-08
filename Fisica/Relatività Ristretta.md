@@ -291,9 +291,17 @@ m*v*\gamma+2*\frac{ε}{c}*sin(\alpha)=m_f*v*\gamma
 $$
 Riscrivendo:
 $$
+m_f=m+\frac{2}{ε*\gamma*c}*\frac{sin(\alpha)}{v}
+$$
+Dato che
+$$
+c*sin(\alpha)=v
+$$
+Facendo la formula inversa:
+$$
 m_f=m+\frac{2ε}{\gamma*c^2}
 $$
-Possiamo indicare la quantità di energia aggiunta con $\Delta E$:
+1fPossiamo indicare la quantità di energia aggiunta con $\Delta E$:
 $$
 m_f=m+\frac{\Delta E}{\gamma*c^2}
 $$
