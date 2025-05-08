@@ -208,7 +208,7 @@ La contrazione delle lunghezze avviene solo lungo la direzione del moto.
 # Dinamica
 Le [[Leggi di Newton]] si mantengono?
 #### Principio di Inerzia
-Si.
+Si. (è la base dei [[Sistema di Riferimento Inerziale|Sistemi di Riferimento Inerziali]])
 #### $F=m*a$
 No, perchè si potrebbe avere un accelerazione oltre $c$. Bisogna riscriverlo come:
 $$
