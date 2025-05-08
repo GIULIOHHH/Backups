@@ -75,14 +75,12 @@ $$
 $$
 ### Legge di Lenz
 Ogni volta che la fem genera una corrente, [[Magneti#**CAMPO MAGNETICO** di un Filo percorso da corrente (non immerso)|viene generato]] un **campo magnetico indotto**.
-Il verso della [[Magneti#Forza di Lorentz|forza magnetica]] è opposto a quello della velocità, quindi per mantenere la sbarretta in moto è necessaria un'altra forza costante parallela alla velocità.
-
-La corrente indotta dalla **fem cinetica** ha un verso tale da [[Magneti#**CAMPO MAGNETICO** di un Filo percorso da corrente (non immerso)|Generare un campo magnetico indotto]] che si oppone alla variazione del flusso magnetico ($\Delta \Phi$) che l'ha generata. 
+La corrente indotta dalla **fem cinetica** ha un verso tale da [[Magneti#**CAMPO MAGNETICO** di un Filo percorso da corrente (non immerso)|Generare un campo magnetico indotto]] che si oppone alla variazione del flusso magnetico $\Delta \Phi(\overrightarrow B$) che l'ha generata. 
 
 >[!info] Il campo magnetico indotto cerca di far ritornare $\Delta \Phi$ a $0$.
 
-Oppure può essere anche la corrente stessa ciò che si oppone alla variazione che del flusso magnetico che l'ha generata.
-
+Oppure può essere anche la corrente stessa ciò che si oppone alla variazione del flusso magnetico che l'ha generata.
+>
 La corrente crea un **campo magnetico indotto** che:
 - è opposto al campo magnetico esterno se $\Delta \Phi >0$
 	- Il campo magnetico esterno avvicinandosi aumenta $\Delta \Phi$, quindi opponendosi all'avvicinamento lo porta verso $0$.
@@ -93,7 +91,8 @@ La corrente crea un **campo magnetico indotto** che:
 >2. la variazione del flusso è positiva, perchè più si avvicina il magnete più aumenta.
 >3. Per opporsi all'aumento del flusso, il verso del campo magnetico indotto deve essere opposto a quello del magnete.
 >4. Per generare questo campo la corrente deve essere in senso antiorario. (secondo la [[Magneti#Seconda regola della mano destra|Seconda regola della mano destra]].)
->
+
+>Il verso della [[Magneti#Forza di Lorentz|forza magnetica]] è opposto a quello della velocità, quindi per mantenere la sbarretta in moto è necessaria un'altra forza costante parallela alla velocità.
 ![[Pasted image 20241010191348.png|300]]
 
 Se la legge di Lenz non valesse, non ci sarebbe conservazione dell'energia:

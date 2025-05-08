@@ -295,7 +295,7 @@ Le onde elettromagnetiche trasportano energia.
 La densità di energia di un onda elettromagnetica nel vuoto è la somma tra quella elettrica e quella magnetica.
 
 $$
-u=u_E+u_B
+u=\frac{1}{2}u_E+\frac{1}{2}u_B
 $$
 $$
 u=\frac{1}{2}ε_0*E^2\;+\;\frac{1}{2*\mu_0}*B^2
