@@ -43,13 +43,11 @@ h=6.62*10^{-34} \;\;J*s
 $$
 Quando aumenta l'[[Equazioni Di Maxwell#Irradiamento|Irradiamento]] (intensità della luce), aumenta il numero di fotoni, ma non la loro energia individuale. 
 Quando un individuale fotone colpisce un elettrone gli cede energia. Se l'energia è superiore a $W_0$ può resistere all'attrazione del metallo. (altrimenti rimane dov'è).
-
 Quindi l'energia massima degli elettroni è uguale a:
 $$
 K_{max}=h*f-W_0
 $$
 >L'energia data dai fotoni meno l'energia necessaria all'estrazione.
-
 Quando la frequenza della [[Luce]] è $f_0$, $K_{max}=0$.
 >Dato che il lavoro della luce è uguale all'energia necessaria per estrarli, non hanno energia in più.
 Quindi

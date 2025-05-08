@@ -80,6 +80,7 @@ $$
 $$
 6. Quindi i due valori dovrebbero essere diversi, ma osservando **sono uguali a $T/2$**.
 7. Questo è possibile solo se la velocità della luce rimane costante.
+	1. Non si aggiunge o si sottrae niente da $c$.
 # [Simultaneità](https://www.youtube.com/watch?v=SV6mzHH41gk)
 1. Se due eventi avvengono contemporaneamente **nello stesso punto,** risultano simultanei in tutti i sistemi inerziali.
 2. Altrimenti la simultaneità di due eventi dipende dal moto dell'osservatore.
@@ -116,7 +117,8 @@ Un'astronauta su un astronave e un'osservatore a terra hanno due [[#Orologi a Lu
 	2. Dato che l'astronave si muove orizzontalmente, la luce percorre una traiettoria inclinata.
 	3. Poiché la velocità della luce è costante, la luce deve percorrere uno spazio maggiore.
 	4. Questo significa che per l'osservatore terrestre **il tempo sull'astronave appare rallentato**.
-		1. Il **Tempo Dilatato** $\Delta t$ è il tempo che l'osservatore a terra misura nell'astronave.
+		1. perchè per calcolare un secondo la luce deve viaggiare per più spazio.
+		2. Il **Tempo Dilatato** $\Delta t$ è il tempo che l'osservatore a terra misura nell'astronave.
 ![[Pasted image 20250302205455.png]]
 
 >- Il mio orologio batte il tempo più velocemente di qualsiasi altro orologio che si sta muovendo rispetto a me. $\Delta t> \Delta t_0$.
@@ -140,20 +142,31 @@ $$
 $$
 1. Quindi sostituendo
 $$c*\Delta t=2*\sqrt{(\frac{v*\Delta t}{2})^2+D^2}$$
-1. Elevando al quadrato e dividendo per $c$:
+eleviamo al quadrato.
+$$
+{(c*\Delta t)}^2={(v*\Delta t)}^2+{(2D)}^2
+$$
+fattorizziamo $\Delta t$
+$$
+\Delta t^2=\frac{{(2D)}^2}{(c^2-v^2)}
+$$
+Facciamo la radice.
+$$
+\Delta t=\frac{2D}{\sqrt{c^2-v^2}}
+$$
+Usciamo $c$ dalla frazione.
+
 $$
 \Delta t=\frac{2D}{c}*\frac{1}{\sqrt{1-(\frac{v}{c})^2}}
 $$
-1. Il tempo proprio è
+2. Il tempo proprio è
 $$
 \Delta t_0=\frac{2D}{c}
 $$
-1. Sostituendo
+3. Sostituendo
 $$
 \Delta t=\frac{\Delta t_0}{\sqrt{1-(\frac{v}{c})^2}}
 $$
-
-
 
 Il fattore di dilatazione è:
 $$
@@ -197,7 +210,7 @@ $$
 La contrazione delle lunghezze avviene solo lungo la direzione del moto.
 
 >Se non fosse così un oggetto di altezza $h_0$ a riposo sarebbe più basso se visto da un sistema in moto.
->- Due osservatori tenendo righelli in mano si avvicinano.
+>- Due osservatori tenendo righelli in mano si avvicinano. 
 >- Per un osservatore il righello dell'altro risulta più piccolo del proprio.
 >- Quando si incontrano, per un istante i due righelli si trovano affiancati, quindi è oggettivamente possibile capire quale dei due osservatori è in moto.
 >- Questo contraddice [[#Postulati della Relatività Ristretta|Il principio di relatività]].
