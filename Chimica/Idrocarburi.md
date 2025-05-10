@@ -5,8 +5,7 @@ Composti che contengono solo [[Carbonio]] e [[Idrogeno]].
 Si dividono in:
 ## [[Idrocarburi Aromatici]]
 Idrocarburi con un anello benzenico.
-
 ## [[Idrocarburi Alifatici]]
 Idrocarburi senza un anello benzenico.
 # Proprietà
-- Non sono solubili in [[Acqua]] ma in [[Solventi Apolari]]
+- Non sono solubili in [[Acqua]] ma in [[Solventi Apolari]], perchè le catene di carbonio sono apolari.
