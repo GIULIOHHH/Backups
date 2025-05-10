@@ -29,10 +29,9 @@ Solitamente si aggiungono:
 >![[Pasted image 20250317150311.png]]
 3. [[Acqua]] con un catalizzatore [[Elettrofilo-Acido|Elettrofilo]].
 >perchè l'acqua è un [[Acidi Alogenidrici|Acido]] molto debole.
-
 >[!Quote] Esempio
 >![[Pasted image 20250317150832.png]]
-
+Porta alla formazione di [[Alcoli#Secondari e Terziari|Alcoli]].
 
 # Reagenti Asimmetrici
 Si segue la regola di Markovnikov.

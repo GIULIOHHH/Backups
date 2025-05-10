@@ -29,7 +29,7 @@ Si ha un doppietto elettronico libero.
 Viene espulso anche l'[[Alogeni|Alogeno]], che si porta con se gli elettroni del legame $\sigma$.
 Il doppietto elettronico libero forma un doppio legame per avere un [[Alcheni|Alchene]].
 ![[WhatsApp Image 2025-05-10 at 18.37.11 (2).jpeg|400]]
-## Sostituzione Nu>cleofila
+## Sostituzione Nucleofila
 Un [[Nucleofilo-Base|Nucleofilo]] si sostituisce all'[[Alogeni|Alogeno]]. 
 Entrambi gli elettroni del legame $\sigma$ vanno con l'[[Alogeni|Alogeno]] e vengono sostituiti dalla coppia del [[Nucleofilo-Base|Nucleofilo]].
 ![[WhatsApp Image 2025-05-10 at 18.37.11.jpeg|400]]
