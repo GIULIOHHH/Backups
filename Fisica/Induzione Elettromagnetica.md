@@ -200,7 +200,7 @@ Quindi si inserisce una costante di proporzionalità misurata in Henry $[H]$:
 	- $\Delta\Phi=L*I$
 Si possono sostituire in [[#Legge di Faraday-Neumann-Lenz|Faraday-Neumann]]:
 $$
-\mathcal{E}=-M*\frac{\Delta I}{\Delta t}
+	\mathcal{E}_s=-M*\frac{\Delta I_p}{\Delta t}
 $$
 $$
 \mathcal{E}=-L*\frac{\Delta I}{\Delta t}

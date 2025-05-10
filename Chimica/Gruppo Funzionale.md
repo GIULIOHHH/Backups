@@ -1,0 +1,1 @@
+Un [[Legame Chimico#Legami Multipli|Legame multiplo]] o un [[Eteratomo]]
