@@ -62,7 +62,7 @@ Per gli altri sostituenti si usano i numeri.
 >![[Pasted image 20250317174608.png]]
 >**3,5-diclorotoluene**
 >Individuiamo un gruppo noto. è toluene.
->Ci sono due clori in posizioni 3 e 5
+>Ci sono due clori in posizioni 3 e 5.
 # Idrocarburi Policiclici Aromatici
 Anelli con più lati in comune.
 
@@ -74,3 +74,60 @@ Si indicano con $\ce{Ar}-$.
 ![[Pasted image 20250317174135.png]]
 Il gruppo fenile si scrive anche $Ph$
 ![[Pasted image 20250317174215.png]]
+# Proprietà fisiche
+- Il punto di ebollizione dipende dal peso molecolare, il punto di fusione dalla struttura.
+- Per via dell'alto rapporto carbonio-idrogeno bruciano con fiamma sporca, quindi rilasciano finissimi nuclei carboniosi.
+# Reazioni
+La risonanza rende il benzene molto stabile, per questo le reazioni di addizione sono molto difficili.
+>[!quote] Esempio
+>La reazione di [[Idrogenazione]] può avvenire solo con un [[catalizzatore]] ad alta pressione e temperatura.
+>![[Pasted image 20250510162730.png]]
+
+### Sostituzione Elettrofila Aromatica (SEA)
+La reazione più comune.
+Uo (o più) atomi di idrogeno sono sostituiti con [[Elettrofilo-Acido|Elettrofili]] senza rompere l'aromaticità.
+![[Pasted image 20250510163045.png]]
+>[!quote] Esempio
+>I nomi delle specifiche reazioni dipendono dall'elettrofilo sostituto:
+>![[Pasted image 20250510163951.png]]
+>(In questi casi il nucleofilo si trova nel catalizzatore)
+
+Funziona in due stadi:
+1. Un legame $\pi$ dell'anello si lega all'[[Elettrofilo-Acido|Elettrofilo]], aggiungendo una carica positiva che viene delocalizzata (per stabilità).
+	1. Si forma un **Intermediario di Wheland**
+	2. ![[Pasted image 20250510165225.png]]
+	3. Questo è lo stadio più lento.
+2. Il [[Carbocatione]] a cui si era legato l'[[Elettrofilo-Acido|Elettrofilo]] perde uno ione $H^+$. Gli elettroni con cui era legato $H^+$neutralizzano la carica positiva.
+	1. ![[Pasted image 20250510165604.png|700]]
+	2. Questo è lo stadio più veloce.
+
+
+>[!Quote] Esempio
+>![[Pasted image 20250510170441.png]]
+>Questo è il grafico di reazione della SEA.
+>Nella maggior parte dei casi *(sinistra)*, l'energia di attivazione del primo stadio è il picco più alto (una volta superato è impossibile tornare indietro).
+>Nella solfonazione *(destra)* i picchi dei due stadi hanno uguale energia di attivazione, quindi l'**Intermediario di Wheland** può evolversi con uguale facilità in entrambe le direzioni.
+
+## Sostituenti
+I sostituenti già sull'anello possono:
+1. Ostacolare o agevolare la reazione.
+- **Attivanti**: accelerano la reazione cedendo elettroni.
+- **Disattivanti**: rallentano la reazione attraendo elettroni.
+2. Determinare la posizione del nuovo sostituente.
+- **Orto, Para-orientati**: gli attivanti e gli [[Alogeni]] (anche se sono disattivanti).
+	- L'atomo legato all'anello ha una coppia di elettroni non condivisa.
+- **Meta-orientati**: gli altri disattivanti.
+	- L'atomo legato all'anello ha una carica positiva.
+
+
+# Nel mondo reale
+>[!danger] Nel mondo reale:
+>Il benzene è altamente tossico. (Può portare alla leucemia, cancro e danni genetici.)
+>Viene usato nella benzina, per questo le emissioni vengono monitorate nelle aree urbane.
+>
+>Dove è possibile, si sostituisce il benzene con composti meno tossici:
+>- Il [[#Nomenclatura Classica|Toluene]] viene utilizzato come solvente.
+>- Lo [[#Nomenclatura Classica|Xilene]] viene utilizzato nelle plastiche.
+>- Il [[#Idrocarburi Policiclici Aromatici|Naftalene]] è il catrame del carbon fossile.
+>- Alcuni [[#Idrocarburi Policiclici Aromatici]] si ottengono bruciando legna o materia organica, per questo possiamo trovarli cucinando.
+>	- Sono cancerogeni!

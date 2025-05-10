@@ -123,4 +123,8 @@ Principi della Termodinamica:
 [[Particelle e Onde]]
 
 # Chimica
-[[Capitolo Alcani Alcheni]]
+## [[Introduzione alla Chimica organica]]
+
+## [[Capitolo Idrocarburi]]
+
+## [[Capitolo Gruppi Funzionali]]
