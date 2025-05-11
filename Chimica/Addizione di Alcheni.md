@@ -22,9 +22,8 @@ Solitamente si aggiungono:
 1. [[Alogeni]]
 >[!Quote] Esempio
 >![[Pasted image 20250317150046.png]]
-2. [[Acidi Alogenidrici]] o [[Acido Solforico]].
+2. [[Acidi Alogenidrici]] (formano [[Alogenuri Alchilici]]) o [[Acido Solforico]].
 	1. In questo caso $\ce H$ si divide dal resto della molecola.
-	2. Si formano [[Alogenuri Alchilici]].
 >[!Quote] Esempio
 >![[Pasted image 20250317150311.png]]
 3. [[Acqua]] con un catalizzatore [[Elettrofilo-Acido|Elettrofilo]].

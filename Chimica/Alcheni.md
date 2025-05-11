@@ -1,4 +1,6 @@
-[[Idrocarburi]] [[Insaturo|Insaturi]] con un singolo doppio [[Legame Chimico|legame]].
+>[!done] **Definizione**:
+>[[Idrocarburi]] [[Insaturo|Insaturi]] con un singolo doppio [[Legame Chimico|legame]].
+
 >[[Ibridizzazione#$sp 2$|Ibridizzazione]] $sp^2$.
 >![[Pasted image 20250316131730.png]]
 

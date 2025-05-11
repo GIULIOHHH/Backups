@@ -1,4 +1,5 @@
-[[Idrocarburi Alifatici]] dove uno (o piu) atomi di idrogeno sono stati sostituiti da [[Alogeni]].
+>[!done] **Definizione**:
+>[[Idrocarburi Alifatici]] dove uno (o piu) atomi di idrogeno sono stati sostituiti da [[Alogeni]].
 
 Si possono dividere in primari, secondari o terziari, in base al numero di atomi di carbonio legati al carbonio a cui è legato l'[[Alogeni|Alogeno]].
 ![[Pasted image 20250510180414.png]]

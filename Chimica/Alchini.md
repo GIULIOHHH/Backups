@@ -1,4 +1,6 @@
-[[Idrocarburi]] [[Insaturo|Insaturi]] con un singolo triplo legame.
+>[!done] **Definizione**:
+>[[Idrocarburi]] [[Insaturo|Insaturi]] con un singolo triplo legame.
+
 >[!done] **Formula**:
 >$$\ce{C_{n}H_{2n-2}}$$
 

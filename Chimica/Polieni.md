@@ -1,4 +1,7 @@
-[[Idrocarburi]] [[Insaturo|Insaturi]] con più doppi [[Legame Chimico|legami]].
+>[!done] **Definizione**:
+>[[Idrocarburi]] [[Insaturo|Insaturi]] con più doppi [[Legame Chimico|legami]].
+
+
 >Come gli [[Alcheni]] ma con più legami.
 
 Sono:

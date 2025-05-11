@@ -1,0 +1,1 @@
+Composto dove esiste un legame carbonio-[[Metallo]]
