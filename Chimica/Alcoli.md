@@ -112,10 +112,44 @@ Sono [[Elettrofilo-Acido|Acidi]] debolissimi (forza acida $K_a$ minore dell'acqu
 >L'acidità aumenta passando da terziari a primari.
 >![[Pasted image 20250511173725.png]]
 >Quindi le [[Nucleofilo-Base#Basi Coniugate|Basi Coniugate]] degli alcoli sono particolarmente forti. 
-
+>![[Pasted image 20250511205622.png]]
+ 
 
 >[!done] Formula:
 >![[Pasted image 20250511174538.png]]
-## Rottura legame $\ce{C-O}$
 
-## Ossidazione
+
+## Rottura legame $\ce{C-O}$ (comportamento [[Nucleofilo-Base|Basico]])
+Il legame $\ce{C-O}$ si rompe con difficoltà, quindi è necessario un [[Elettrofilo-Acido|Acido]].
+
+Tutte le reazioni hanno:
+-  [[Protonazione]] dell'alcol. 
+l'[[Elettrofilo-Acido|Acido]] si lega all'ossigeno grazie al doppietto libero.
+![[Pasted image 20250511210646.png]]
+- Perdita di acqua e formazione di un [[Carbocatione]].
+![[Pasted image 20250511210814.png]]
+Poi si può avere:
+- [[Sostituzione]] nucleofila (solo alcoli primari e secondari):
+Un altra molecola di alcol attacca il [[Carbocatione]] e successivamente abbandona uno ione $\ce{H^+}$
+![[WhatsApp Image 2025-05-11 at 21.10.01.jpeg|0]]
+- [[Eliminazione]]:
+Un atomo di carbonio in $\beta$ abbandona uno ione $\ce{H^+}$ e si forma un [[Alcheni|Alchene]].
+![[WhatsApp Image 2025-05-11 at 21.10.32 1.jpeg]]
+## [[Ossidazione]] 
+I reagenti sono metalli di transizione con alto stato di [[Ossidazione]], come l'acido cromico $\ce{H_2CrO_4}$.
+## Alcoli Primari
+Si ossidano in [[Aldeide|Aldeidi]] che si ossidano in [[Acido Carbossidrilico|Acidi Carbossidrilici]].
+![[Pasted image 20250511214040.png]]
+Usando il clorocromato di piridinio $\ce{CCP}$ come reagente in ambiente senza acqua si può fermare la reazione allo stato di [[Aldeide]] ([[Ossidazione#Ossidazione Blanda|Ossidazione Blanda]]).
+
+>Succede quando smaltiamo l'alcol etilico (lo trasformiamo in acqua).
+## Alcoli Secondari
+Si ossidano in [[Chetoni]].
+![[Pasted image 20250511215736.png]]
+## Alcoli Terziari
+Non si ossidano. 
+In condizioni drastiche si rompe la molecola e si formano $\ce{CO_2}$ e $\ce{H_2O}$.
+
+# Nel mondo reale
+>[!danger] Nel mondo reale:
+>
