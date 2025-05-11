@@ -152,4 +152,8 @@ In condizioni drastiche si rompe la molecola e si formano $\ce{CO_2}$ e $\ce{H_2
 
 # Nel mondo reale
 >[!danger] Nel mondo reale:
->
+>- Il metanolo è incolore, velenoso e miscibile con l'acqua. Si utilizza come additivo nelle benzine e per sintetizzare polimeri.
+>- L'etanolo è volatile e infiammabile. Si mescola con l'acqua con contrazione di volume.
+>- Il glicole etilico si mescola con l'acqua in tutte le proporzioni.
+>- La glicerina (1,2,3 propantriolo) viene usato negli esplosivi. Reagisce con l'acido nitrico per formare la nitroglicerina, un esplosivo che esplode dopo un semplice urto.
+>	- Alfred Nobel la mescola con farina di fossile per creare la dinamite, un esplosivo più stabile.
