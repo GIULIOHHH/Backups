@@ -9,7 +9,7 @@ Successivamente si scopre che queste due strutture sono delle **Forme limite** c
 >[!Done] Legge
 >Ogni atomo di [[Carbonio]] è [[Ibridizzazione#$sp 2$|Ibridizzato]] $sp^2$.
 >Gli orbitali ibridi formano legami singoli $\sigma$. 
->Per la **Delocalizzazione Elettronica** gli orbitali [[perpendicolare|Perpendicolari]] non ibridi si sovrappongono e formano $\pi$ delocalizzati su tutti gli atomi della catena.
+>Per la **Delocalizzazione Elettronica** gli orbitali [[perpendicolare|Perpendicolari]] non ibridi si sovrappongono e formano legami $\pi$ delocalizzati su tutti gli atomi della catena.
 >Si creano due nubi elettroniche.
 >![[Pasted image 20250317162051.png]]
 >Dato che gli elettroni sono disposti in maniera uniforme si rappresenta con un cerchio.
