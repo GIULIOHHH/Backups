@@ -327,5 +327,19 @@ $$
 
 Dalla formula inversa otteniamo l'energia cinetica.
 >Non ha niente a che fare con l'energia cinetica classica, ma per velocità molto bassa si può approssimare a $E=m*v^2/2$
+
+>Ogni variazione di massa è legata ad una variazione di energia:
+>- Il sole rilascia energia, quindi la sua massa diminuisce.
+>- Quando un onda elettromagnetica si avvicina ad un nucleo atomico, può scomparire e creare un elettrone e un positrone.
+
+>Dall'equazione
+$$
+K=E-E_0
+$$
+>si può dimostrare che la velocità della luce è la massima:
+>$$
+{K=mc^2(\frac{1}{\sqrt{1-\frac{v^2}{c^2}}}-1)}{}{}{}{}{}{}
+$$
+>Quando $v$ -> $c$, $K$ -> $\infty$, ma come sappiamo dal [[Teorema dell'energia cinetica]], servirebbe un lavoro infinito per un energia cinetica infinita, ma questo è impossible.
 # Trasformazioni di Lorenz
 
