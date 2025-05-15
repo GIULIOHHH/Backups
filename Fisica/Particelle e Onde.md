@@ -8,7 +8,7 @@ Una **Particella** è un corpo a cui possiamo descrivere una posizione in ogni m
 >- Il modello tradizionale dell'[[Atomo]] è formato da [[Elettricità#Atomo|particelle cariche]].
 >	- Ci sono casi dove gli elettroni si comportano come [[Onda]]. Si ha l'[[Fenomeni ondulatori#Interferenza|Interferenza]] tra [[Elettricità#Carica elettrica|Elettroni]].
 >-Per l'[[Luce#Interferenza nella luce.|Esperimento di Young]] consideriamo la [[Luce]] come un [[Onda]].
-	- Ci sono casi dove la [[Luce]] si comporta come insieme di **Particelle**.
+	- Ci sono [[#Corpo Nero|casi]] dove la [[Luce]] si comporta come insieme di **Particelle**.
 
 Secondo il **Principio di Complementarietà** di *Bohr*:
 **Sia la radiazione che le particelle dimostrano proprietà [[Onda|Ondulatorie]] o Corpuscolari in base all'apparato sperimentale con cui interagiscono.**
@@ -46,13 +46,16 @@ Ma questo violerebbe le leggi della conservazione dell'energia.
 Sperimentalmente questo non succede.
 >Diminuendo la lunghezza d'onda (o aumentando la frequenza), l'energia raggiunge un picco e poi tende a $0$.
 ## Legge di Spostamento di Wien
+
 All'aumentare della temperatura, la lunghezza d'[[Onda]] $\lambda_{max}$ per cui si ha il massimo valore di energia si sposta verso sinistra (lunghezza minore).
+
 >[!done] Formula
 >$$
 \lambda_{max}*T=2.90*10^{-3}
 $$
 
 ![[Pasted image 20250513221003.png]]
+
 ## Planck
 Descrive gli atomi del corpo nero come oscillatori armonici (possono ricevere e donare energia).
 >Nei suoi calcoli compariva una quantità con lettera $h$.
@@ -72,8 +75,6 @@ h=6.62*10^{-34} \;\;[J*s]
 $$
 
 A frequenze elevate la soglia $h*f$ è molto maggiore dell'energia termica disponibile, quindi gli oscillatori non vengono attivati e l'energia totale rimane finita.
- 
-# Corpo Nero
 
 # Effetto Fotoelettrico
 >Viene scoperto da Hertz.
@@ -94,7 +95,7 @@ A frequenze elevate la soglia $h*f$ è molto maggiore dell'energia termica dispo
 La luce colpisce gli elettroni trasferendogli energia.
 Il lavoro minimo per far fuggire l'elettrone dall'attrazione del reticolo metallico è detto **lavoro di estrazione** $W_0$.
 ### Difficoltà del modello ondulatorio
-- La luce, essendo un flusso continuo di energia, a un certo punto il lavoro compiuto su un elettrone dovrebbe superare $W_0$, indipendentemente dalla [[Frequenza]].
+- La luce è un flusso continuo di energia, quindi a un certo punto il lavoro compiuto su un elettrone dovrebbe superare $W_0$, indipendentemente dalla [[Frequenza]].
  - L'energia trasportata dalla luce dipende dall'[[Equazioni Di Maxwell#Irradiamento|Irradiamento]]. Perchè è la [[Frequenza]] a determinare se i **fotoelettroni** riescono a fuggire? 
 ## Fotoni
 *Einstein* ipotizza che la luce di [[Frequenza]] $f$ è formata da un insieme di particelle chiamate fotoni, con energia:
@@ -122,6 +123,10 @@ L'intensità di [[Induzione Elettromagnetica#Corrente Alternata|Corrente]] è pr
 
 
 # Effetto Compton
+
+
+
+
 Un fotone diffuso ha una lunghezza d'onda maggiore e un'energia minore del fotone incidente.
 
 
@@ -129,3 +134,4 @@ La variazione della lunghezza d'onda del fotone incidente è
 $$
 \Delta \lambda=\frac{h}{mc}*(1-cos({\alpha)})
 $$
+

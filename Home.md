@@ -108,21 +108,21 @@ Principi della Termodinamica:
 	- [[Onde stazionarie]]
 
 ## [[Luce]] 
-- [[Luce]] 
 
-## Elettricità
+## **Elettricità**
 [[Elettricità]]
 [[Potenziale Elettrico]]
 [[Circuiti Elettrici]]
 
-## Quinto anno
+## **Quinto anno**
 [[Magneti]]
 [[Induzione Elettromagnetica]]
 [[Equazioni Di Maxwell]]
 [[Relatività Ristretta]]
 [[Particelle e Onde]]
 
-# Chimica
+---
+# **Chimica**
 ## [[Introduzione alla Chimica organica]]
 
 ## [[Capitolo Idrocarburi]]

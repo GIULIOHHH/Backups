@@ -333,7 +333,8 @@ E_{eff}=\frac{E}{\sqrt 2}
 $$
 ## Irradiamento
 L'energia è determinata dall'irradiamento $S$:
-Potenza di un onda fratto la superficie che attraversa perpendicolarmente.
+Potenza di un onda fratto la superficie ch
+e attraversa perpendicolarmente.
 $$
 S=\frac{P}{A}
 $$
@@ -366,3 +367,45 @@ $$
 >$S=c*B^2/\mu_0$
 >In questo modo otteniamo i valori istantanei.
 >Per quelli medi usiamo I [[#Valore medio|Valori efficaci]].
+
+
+# Polarizzazione
+Un'[[Onda]] è **polarizzata linearmente** se oscilla sempre nella **direzione di polarizzazione**.
+Nel caso della [[Luce]] la **direzione di polarizzazione** diventa quella con cui oscilla il [[Elettricità#Campo elettrico|Campo elettrico]].
+![[Pasted image 20250515210859.png]]
+La [[Luce]] non polarizzata è formata da più [[Onda|Onde]] **polarizzate**.
+>Sono impulsi di [[#Onde Elettromagnetiche]] emesse da atomi diversi. 
+ 
+>Nelle [[Onda|Onde]] longitudinali il concetto di polarizzazione non ha senso, perchè la direzione di propagazione è la direzione di oscillazione.
+
+>Un onda polarizzata può attraversare una fenditura parallela, ma non una perpendicolare.
+>![[Pasted image 20250515211036.png]]
+
+I **Polarizzatori** sono capaci di polarizzare la luce. 
+Funzionano grazie a materiali chiamati polaroid.
+>[!done] Legge
+>L'[[#Irradiamento]] che esce da un **Polarizzatore** è sempre metà di quello iniziale.
+
+Il polarizzatore permette solo il passaggio della luce parallela all'**Asse di Trasmissione**.
+In qualsiasi direzione, esiste sia una componente parallela che una componente perpendicolare del [[Elettricità#Campo elettrico|Campo elettrico]].
+Dato che la luce non polarizzata è uniforme, le due componenti sono uguali.
+>Quindi permettendo il passaggio solo della componente parallela si dimezza l'[[#Irradiamento]].
+
+![[Pasted image 20250515211855.png]]
+# Legge di Malus
+Possiamo usare un altro **polarizzatore** detto **analizzatore** per ruotare la luce e modificarne l'intensità.
+$\alpha$ è l'angolo tra l'asse del **polarizzatore** e l'asse dell'**analizzatore**.
+Passa dall'**analizzatore** la componente della luce parallela ad $\alpha$.
+
+>- Il campo elettrico che arriva all'**analizzatore** è $E$.
+>- Il campo elettrico che esce dall'**analizzatore** è $E*cos(\alpha)$.
+>- Dato che $S=c*E^2*ε_0$:
+
+>[!done] Legge di Malus
+>$$
+\overline{S}=\overline{S_0}*cos^2(\alpha)$$
+>- $\overline{S}$ è l'[[#Irradiamento]] medio che esce dall'analizzatore.
+>- $\overline{S_0}$ è l'[[#Irradiamento]] medio che entra nell'analizzatore.
+>![[Pasted image 20250515211905.png]]
+
+>Se $\alpha=90°$, non passa luce.
