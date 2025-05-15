@@ -98,10 +98,13 @@ Il lavoro minimo per far fuggire l'elettrone dall'attrazione del reticolo metall
 - La luce è un flusso continuo di energia, quindi a un certo punto il lavoro compiuto su un elettrone dovrebbe superare $W_0$, indipendentemente dalla [[Frequenza]].
  - L'energia trasportata dalla luce dipende dall'[[Equazioni Di Maxwell#Irradiamento|Irradiamento]]. Perchè è la [[Frequenza]] a determinare se i **fotoelettroni** riescono a fuggire? 
 ## Fotoni
-*Einstein* ipotizza che la luce di [[Frequenza]] $f$ è formata da un insieme di particelle chiamate fotoni, con energia:
-$$
+
+>[!Done] Legge
+>*Einstein* ipotizza che la luce di [[Frequenza]] $f$ è formata da un insieme di particelle chiamate fotoni, con energia:
+>$$
 E=h*f\;\;\;\;\;\;\;\;\;[J]
 $$
+
 dove $h$ è la costante di Planck.
 >La luce non è distribuita in modo continuo, ma formata da un insieme di *quanti*.
 Quando aumenta l'[[Equazioni Di Maxwell#Irradiamento|Irradiamento]] (intensità della luce), aumenta il numero di fotoni, ma non la loro energia individuale. 
