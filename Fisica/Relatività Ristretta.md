@@ -308,10 +308,8 @@ Spostando $m$ a sinistra otteniamo
 
 >[!Done] Formula
 >$$\Delta m=\frac{\Delta E}{\gamma*c^2}$$**Applicando una quantità di energia ad un corpo senza modificarne la velocità, ne si modifica la massa**.
-
->[!Done] Formula
 >La massa di un corpo è una misura della sua energia.
->L'energia equivalente alla massa si misura con:
+>L'energia equivalente alla massa si misura con la formula inversa:
 >$$E=\gamma*m*c^2$$
 >Se il corpo è fermo misuriamo l'energia a riposo $E_0$.
 $$E_0=m*c^2$$
@@ -333,7 +331,7 @@ Dalla formula inversa otteniamo l'energia cinetica.
 $$
 K=E-E_0
 $$
->si può dimostrare che la velocità della luce è la massima:
+>si può dimostrare che la velocità della luce è irraggiungibile:
 >$$
 {K=mc^2(\frac{1}{\sqrt{1-\frac{v^2}{c^2}}}-1)}{}{}{}{}{}{}
 $$
