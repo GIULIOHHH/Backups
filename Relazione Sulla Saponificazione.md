@@ -107,7 +107,7 @@ Se uno dei due o entrambi fossero più freddi, la reazione sarebbe molto più le
 - Mescolare costantemente per emulsionare i due liquidi.
 	- In questo momento il miscuglio è formato da olio non reagito, glicerina e sapone.
 	- Continuando a mescolare il sapone diventa più denso e cremoso.
-## Nastro
+## Il Nastro
 - Versando parte della miscela nel becher, rimane in aria qualche secondo prima di affondare.
 	- indica che la miscela è stabile.
 	- In questo momento possiamo aggiungere ingredienti secondari per il profumo del sapone.
