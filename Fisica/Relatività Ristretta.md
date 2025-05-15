@@ -1,7 +1,8 @@
 >Ovunque si parla di sistema di riferimento ci si riferisce ai [[Sistema di Riferimento Inerziale|Sistemi di Riferimento Inerziali]]!
 >
->---
 >Tecnicamente la Terra non è completamente inerziale perchè ruota attorno al suo asse e attorno al Sole, ma gli effetti sono così piccoli che possono essere ignorati.
+
+---
 # Relatività Galileiana
 1. **Le leggi fisiche sono assolute:** sono uguali in qualsiasi [[Sistema di Riferimento Inerziale]].
 2. **Il moto è relativo:** Si può dire che un sistema di riferimento è in moto solo se cambia la sua posizione rispetto ad un altro. 
@@ -42,15 +43,15 @@ Quindi non è possibile capire se un sistema di riferimento è in moto solo osse
 >- ai fenomeni scoperti dopo di lui (Dai fenomeni meccanici anche ai fenomeni elettrici e magnetici)
 >- a osservatori che si muovono con velocità molto vicine alla luce.
 
-
-1. **[[#Relatività Galileiana|Principio di Relatività]]:** Le leggi fisiche sono uguali in qualsiasi [[Sistema di Riferimento Inerziale]]. Non esiste sistema di riferimento privilegiato.
-2. **Principio di Invarianza della velocità della luce:** La [[ Luce#^7f21aa|Velocità della Luce nel vuoto]] ha sempre lo stesso valore in qualsiasi [[Sistema di Riferimento Inerziale]] *(Indipendentemente dalla velocità relativa tra sorgente e osservatore).*
+>[!Done] **Principi:**
+>1. **[[#Relatività Galileiana|Principio di Relatività]]:** Le leggi fisiche sono uguali in qualsiasi [[Sistema di Riferimento Inerziale]]. Non esiste sistema di riferimento privilegiato.
+>2. **Principio di Invarianza della velocità della luce:** La [[ Luce#^7f21aa|Velocità della Luce nel vuoto]] ha sempre lo stesso valore in qualsiasi [[Sistema di Riferimento Inerziale]] *(Indipendentemente dalla velocità relativa tra sorgente e osservatore).*
 
 >Soluzione alle Particelle in Moto
 >---
 >Campo elettrico e Campo magnetico assumono valori diversi in base al sistema di riferimento *(per via delle [[#Trasformazioni di Lorenz]])*, ma la loro relazione con il movimento delle particelle rimane costante.
 
-## Esperimenti Sulla Velocità della Luce
+## Esperimenti Sulla Velocità della Luce 
 Una stella ruota attorno al Sole a velocità $v$ e periodo $T$.
 La osserviamo a distanza $d$.
 ![[Pasted image 20250227210234.png]]
@@ -82,8 +83,9 @@ $$
 7. Questo è possibile solo se la velocità della luce rimane costante.
 	1. Non si aggiunge o si sottrae niente da $c$.
 # [Simultaneità](https://www.youtube.com/watch?v=SV6mzHH41gk)
-1. Se due eventi avvengono contemporaneamente **nello stesso punto,** risultano simultanei in tutti i sistemi inerziali.
-2. Altrimenti la simultaneità di due eventi dipende dal moto dell'osservatore.
+>[!done] Legge
+>1. Se due eventi avvengono contemporaneamente **nello stesso punto,** risultano simultanei in tutti i sistemi inerziali.
+>2. Altrimenti la simultaneità di due eventi dipende dal moto dell'osservatore.
 
 Abbiamo un treno con un osservatore $A$. Un osservatore $B$ è al di fuori del treno.
 
@@ -112,7 +114,7 @@ Un'astronauta su un astronave e un'osservatore a terra hanno due [[#Orologi a Lu
 	2. La luce rimbalza verticalmente tra due specchi.
 	3. Il **Tempo Proprio** $\Delta t_0$ è il tempo percepito dall'astronauta tra un rimbalzo e l'altro.
 ![[Pasted image 20250302205041.png]]
-2. Un osservatore guarda da terra l'astronave. è in movimento **rispetto all'orologio**.
+2. Un osservatore guarda da terra l'astronave. è in movimento **rispetto all'orologio** a velocità $v$.
 	1. Per lui sorgente e rilevatore si trovano in punti diversi.
 	2. Dato che l'astronave si muove orizzontalmente, la luce percorre una traiettoria inclinata.
 	3. Poiché la velocità della luce è costante, la luce deve percorrere uno spazio maggiore.
@@ -130,17 +132,17 @@ Un'astronauta su un astronave e un'osservatore a terra hanno due [[#Orologi a Lu
 $$
 2L={v}*{\Delta t}
 $$
->Usiamo $\Delta t$ perchè stiamo osservando da terra.
-1. La luce invece percorre una distanza di $2s$. Usando Pitagora
+>Usiamo $\Delta t$ perchè stiamo osservando da terra. $v$ è la velocità dell'astronave.
+2. La luce invece percorre una distanza di $2s$. Usando Pitagora
 $$2s=2*\sqrt{L^2+D^2}$$
-1. Sostituendo $L$
+3. Sostituendo $L$
 $$2s=2*\sqrt{(\frac{v*\Delta t}{2})^2+D^2}$$
-1. La formula inversa della definizione del tempo dilatato è
-2. 
+4. La formula inversa della definizione del tempo dilatato è
+5. 
 $$
 2s=c*\Delta t
 $$
-1. Quindi sostituendo
+6. Quindi sostituendo
 $$c*\Delta t=2*\sqrt{(\frac{v*\Delta t}{2})^2+D^2}$$
 eleviamo al quadrato.
 $$
@@ -168,14 +170,10 @@ $$
 \Delta t=\frac{\Delta t_0}{\sqrt{1-(\frac{v}{c})^2}}
 $$
 
-Il fattore di dilatazione è:
-$$
-\gamma=\frac{1}{\sqrt{1-(\frac{v}{c})^2}}
-$$
-Quindi:
-$$
-\Delta t=\gamma*\Delta t_0
-$$
+>[!Done] Formula:
+> Il fattore di dilatazione è:
+>$$\gamma=\frac{1}{\sqrt{1-(\frac{v}{c})^2}}$$ Quindi:$$\Delta t=\gamma*\Delta t_0$$
+
 >In generale in $\gamma$ $v$ è la velocità con cui si muove l'oggetto rispetto ad un sistema.
 # Contrazione delle Lunghezze
 Una navicella si muove dalla terra alla luna a velocità $v$. 
@@ -199,7 +197,8 @@ $$
 \frac{L}{\Delta t_0}=\frac{L_0}{\Delta t}
 $$
 Sostituendo le formule del tempo:
-$$
+>[!Done] Formula
+>$$
 L=\frac{L_0}{\gamma}
 $$
 
@@ -234,7 +233,7 @@ $$
 \overrightarrow p=\gamma*m*\overrightarrow v
 $$
 
-Se applichiamo una forza costante la quantità di moto cresce e la velocità tende a $c$.
+Se applichiamo una forza costante la [[Quantità Di Moto]] cresce e la velocità tende a $c$.
 >Se facciamo la formula inversa per $v$, per $p$ che tende all'infinito $v$ tende a $c$.
 ### Conservazione del moto
 La [[Quantità Di Moto]] relativistica di un sistema isolato si conserva in tutti i sistemi di riferimento inerziali.
@@ -301,24 +300,22 @@ Facendo la formula inversa:
 $$
 m_f=m+\frac{2ε}{\gamma*c^2}
 $$
-1fPossiamo indicare la quantità di energia aggiunta con $\Delta E$:
+Possiamo indicare la quantità di energia aggiunta con $\Delta E$:
 $$
 m_f=m+\frac{\Delta E}{\gamma*c^2}
 $$
 Spostando $m$ a sinistra otteniamo
-$$
-\Delta m=\frac{\Delta E}{\gamma*c^2}
-$$
-**Applicando una quantità di energia ad un corpo senza modificarne la velocità, ne si modifica la massa**.
-La massa di un corpo è una misura della sua energia.
-L'energia equivalente alla massa si misura con:
-$$
-E=\gamma*m*c^2
-$$
-Se il corpo è fermo misuriamo l'energia a riposo $E_0$.
-$$
-E_0=m*c^2
-$$
+
+>[!Done] Formula
+>$$\Delta m=\frac{\Delta E}{\gamma*c^2}$$**Applicando una quantità di energia ad un corpo senza modificarne la velocità, ne si modifica la massa**.
+
+>[!Done] Formula
+>La massa di un corpo è una misura della sua energia.
+>L'energia equivalente alla massa si misura con:
+>$$E=\gamma*m*c^2$$
+>Se il corpo è fermo misuriamo l'energia a riposo $E_0$.
+$$E_0=m*c^2$$
+
 Se il corpo si muove possiede l'energia cinetica:
 $$
 E=K+E_0
