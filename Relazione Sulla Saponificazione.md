@@ -40,21 +40,21 @@ I grassi si suddividono in lipidi saponificabili (come i trigliceridi) e non sap
 Il sale alcalino di un acido grasso è formato da: 
 - Una coda apolare idrofoba ($-R$)
 - Una testa polare idrofila ($COO^-$) associata ad uno ione sodio $Na^+$.
-per la doppia natura viene chiamata una molecola anfipatica
-Quando viene sciolto in acqua si dissocia in ione sodio $Na^+$ e ione carbossilato $RCOO^-$.
+per la doppia natura viene chiamata una molecola **anfipatica**
+Quando viene sciolto in acqua si dissocia in **ione sodio** $Na^+$ e **ione carbossilato** $RCOO^-$.
 
 L'acqua da sola non riesce ad eliminare il grasso, perchè acqua e grasso sono immiscibili.
 
 Quando il sapone in acqua entra in contatto con il grasso, le code si dissolvono nel grasso, mentre le teste rimangono legate all'acqua.
-Si forma una micella, una struttura dove il sapone circonda il grasso.
-La superficie esterna della micella ha carica negativa per via delle teste, quindi le micelle si respingono a vicenda, evitando di formare un unica goccia di grasso.
+Si forma una **micella**, una struttura dove il sapone circonda il grasso.
+La superficie esterna della **micella** ha carica negativa per via delle teste, quindi le **micelle** si respingono a vicenda, evitando di formare un unica goccia di grasso.
 
-Il grasso, che prima era insolubile, è ora disperso in acqua sotto forma di micelle: è stato emulsionato.
+Il grasso, che prima era insolubile, è ora disperso in acqua sotto forma di **micelle**: è stato **emulsionato**.
 In queste condizioni può essere facilmente rimosso con il risciacquo.
 # Materiale Utilizzato
-62.5g di Olio di oliva
-7.81g di soda caustica (NaOH)
-18.75g di acqua.
+$62.5g$ di Olio di oliva
+$07.81g$ di soda caustica ($NaOH$)
+$18.75g$ di acqua.
 # Strumenti Utilizzati
 - Bilancia tecnica.
 - Spruzzetta.
