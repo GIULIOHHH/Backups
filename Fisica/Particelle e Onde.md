@@ -54,7 +54,9 @@ All'aumentare della temperatura, la lunghezza d'[[Onda]] $\lambda_{max}$ per cui
 \lambda_{max}*T=2.90*10^{-3}
 $$
 
+
 ![[Pasted image 20250513221003.png]]
+
 
 ## Planck
 Descrive gli atomi del corpo nero come oscillatori armonici (possono ricevere e donare energia).
@@ -101,12 +103,10 @@ Il lavoro minimo per far fuggire l'elettrone dall'attrazione del reticolo metall
 
 >[!Done] Legge
 >*Einstein* ipotizza che la luce di [[Frequenza]] $f$ è formata da un insieme di particelle chiamate fotoni, con energia:
->$$
-E=h*f\;\;\;\;\;\;\;\;\;[J]
-$$
+>$$E=h*f\;\;\;\;\;\;\;\;\;[J]$$dove $h$ è la costante di Planck.
 
-dove $h$ è la costante di Planck.
 >La luce non è distribuita in modo continuo, ma formata da un insieme di *quanti*.
+
 Quando aumenta l'[[Equazioni Di Maxwell#Irradiamento|Irradiamento]] (intensità della luce), aumenta il numero di fotoni, ma non la loro energia individuale. 
 Quando un individuale fotone colpisce un elettrone gli cede energia. Se l'energia è superiore a $W_0$ può resistere all'attrazione del metallo. (altrimenti rimane dov'è).
 Quindi l'energia massima degli elettroni è uguale a:

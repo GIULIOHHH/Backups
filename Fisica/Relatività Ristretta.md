@@ -1,4 +1,4 @@
->Ovunque si parla di sistema di riferimento ci si riferisce ai [[Sistema di Riferimento Inerziale]]!
+>Ovunque si parla di sistema di riferimento ci si riferisce ai [[Sistema di Riferimento Inerziale|Sistemi di Riferimento Inerziali]]!
 >
 >---
 >Tecnicamente la Terra non è completamente inerziale perchè ruota attorno al suo asse e attorno al Sole, ma gli effetti sono così piccoli che possono essere ignorati.
