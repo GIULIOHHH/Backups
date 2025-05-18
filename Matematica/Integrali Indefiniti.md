@@ -173,3 +173,39 @@ $$
 - Si integrano separatamente.
 >[!info] Stesso metodo di $\Delta=0 \land p\neq0$ e $\Delta >0$
 
+# Integrazione per parti
+Sappiamo che:
+$$
+D(f*g)=f^`*g+f*g^`
+$$
+Integrando entrambi i lati:
+$$
+f*g=\int {f^`*g}+\int{f*g^`}
+$$
+Spostando a sinistra:
+>[!done] Formula
+>$$
+\int{f^`*g}=f*g-\int{f*g^`}
+$$
+
+- $g(x)$ è il **fattore finito**.
+- $f^`(x)$ è il **fattore differenziale**.
+	- Lo devo integrare per ottenere $f(x)$.
+
+# Integrazione per sostituzione
+- Impostiamo $x$ uguale alla nuova variabile $k$.
+- Deriviamo entrambi i lati e aggiungiamo $dx$ e $dk$.
+- Sostituiamo $x$ con $k$ e $dx$ con $dk$.
+- Integro
+- Risostituisco $k$ con $x$.
+>[!quote] Esempio
+>$$>y=\int{cos(\sqrt{x})}dx$$
+>Pongo $$\sqrt{x}=k$$
+>$$x=k^2$$
+>Ora derivo entrambi
+>$$1*dx=2k*dk$$
+>Ora sostituisco
+>$$
+y=\int{cos(k)}(2k*dk)
+$$
+

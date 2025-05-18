@@ -178,4 +178,10 @@ $$
 f(x)=g(x) \\
 f^{'}(x)=g^{'}(x)
 
-\end{cases}$$$$
+\end{cases}$$
+
+
+# Formula alternativa
+$$
+y^{'}=\frac{dy}{dx}
+$$

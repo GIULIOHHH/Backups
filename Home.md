@@ -33,7 +33,7 @@ Esponenziali/Logaritmi
 Matrici
 - [[Matrici]]
 Immaginari 
-- [[Numeri Immaginari]]
+- [[Numeri Complessi]]
 ## [[funzione|Funzioni]] 
 - [[funzione]] 
 - [[Retta]] 
@@ -59,6 +59,7 @@ Immaginari
 - [[Risoluzione Approssimata]]
 - [[Integrali Indefiniti]]
 - [[Integrali Definiti]]
+- [[Equazioni Differenziali]]
 ---
 # __Fisica__
 ## [[Termologia]] 

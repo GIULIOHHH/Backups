@@ -83,7 +83,7 @@ Se uno dei due o entrambi fossero più freddi, la reazione sarebbe molto più le
 # Passaggi
 
 ## Indossare dispositivi di protezione individuale
-- Camice
+- Camicia
 - Guanti in lattice
 - Occhialini di sicurezza
 ## Creazione della Soluzione Caustica
