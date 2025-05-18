@@ -92,7 +92,7 @@ $$
 \frac{1}{e^{-A(x)}}=e^{-A(x)*(-1)}=e^{A(x)}
 $$
 >[!done] Formula
->$$y=e^{A(x)}=\int{b(x)*e^{-A(x)}} +c$$ 
+>$$y=e^{A(x)}*[\int{b(x)*e^{-A(x)}}+c]$$ 
 
 >il $+c$ è li perchè abbiamo integrato prima.
 
