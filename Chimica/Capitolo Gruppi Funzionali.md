@@ -2,3 +2,5 @@ Possiamo considerare questi composti come unioni tra [[Idrocarburi Aromatici|Rad
 
 1. [[Alogenuri Alchilici]]
 2. [[Alcoli]]
+3. [[Fenoli]]
+4. [[Eteri]]

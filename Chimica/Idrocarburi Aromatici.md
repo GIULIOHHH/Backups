@@ -1,3 +1,4 @@
+# Benzene
 - Il benzene, $\ce{C6H6}$ si comporta come un composto saturo.
 >Non ha reazioni di [[Addizione di Alcheni|Addizione]] ma principalmente di [[Sostituzione]].
 - Tutti gli atomi di carbonio sembrano essere equivalenti.
@@ -35,13 +36,17 @@ Gli idrocarburi aromatici si chiamano anche **Areni**.
 ![[Pasted image 20250317162910.png]]
 ![[Pasted image 20250317162944.png]]
 ![[Pasted image 20250317163124.png]]
+
+### Extra:
 Xilene:
 ![[Pasted image 20250317173053.png]]
+![[Pasted image 20250520173544.png]]
 # Sostituenti
 ## Quando il sostituente è uno
 si aggiunge il nome prima del benzene.
 ![[Pasted image 20250317170500.png]]
 ## Quando i sostituenti sono 2:
+Se sono uguali si usano i numeri, altrimenti:
 - Il primo è sempre in posizione $X$.
 - Il nome si decide in base alla posizione dell'altro:
 	- **orto-** se in posizione 2/6
@@ -57,7 +62,6 @@ si aggiunge il nome prima del benzene.
 Si controlla se alcuni sostituenti formano una struttura nota. Se sono di più le priorità sono:
 ![[ff  aa a.png]]
 Per gli altri sostituenti si usano i numeri.
-
 >[!Quote] Esempio
 >![[Pasted image 20250317174608.png]]
 >**3,5-diclorotoluene**
@@ -108,7 +112,7 @@ Funziona in due stadi:
 >Nella maggior parte dei casi *(sinistra)*, l'energia di attivazione del primo stadio è il picco più alto (una volta superato è impossibile tornare indietro).
 >Nella solfonazione *(destra)* i picchi dei due stadi hanno uguale energia di attivazione, quindi l'**Intermediario di Wheland** può evolversi con uguale facilità in entrambe le direzioni.
 
-## Sostituenti
+## Modificare la reazione
 I sostituenti già sull'anello possono:
 1. Ostacolare o agevolare la reazione.
 - **Attivanti**: accelerano la reazione cedendo elettroni.
