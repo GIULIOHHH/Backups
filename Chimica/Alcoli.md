@@ -59,6 +59,7 @@ Alcol [[Idrocarburi|Radical]]**ico.**
 3. Triòli.
 4. Poliòli.
 
+>I [[Glicoli|Diòli]] geminali sono [[Glicoli|Diòli]] con più [[Gruppo Ossidrilico|Gruppi Ossidrilici]] legati ad un singolo atomo di [[Carbonio]].
 ## Nomenclatura
 [[#Nomenclatura|Uguale agli alcoli]], ma prima di -olo aggiungiamo -di, -tri...
 >[!quote] Esempio

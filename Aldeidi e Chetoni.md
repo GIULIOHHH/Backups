@@ -22,7 +22,31 @@ Hanno un punto di ebollizione superiore ai composti non polari, ma inferiore ai 
 
 I **Chetoni** sono meno reattivi delle **Aldeidi**, perchè:
 - L'ingombro sterico maggiore rende più difficile l'attacco dei nucleofili.
-- Le [[Idrocarburi|Catene idrocarburiche]] polarizzano i loro legami verso l'atomo di [[Carbonio]] in $\ce{C-O}$ (gli inviano elettroni per l'[[Effetto Induttivo]]), diminuendo la sua carica parziale positiva.
+- Le [[Idrocarburi|Catene idrocarburiche]] polarizzano i loro legami verso l'atomo di [[Carbonio]] in $\ce{C-O}$ (gli inviano elettroni per l'[[Effetto Induttivo]]), diminuendo la sua c
+- rica parziale positiva.
 # Reazioni
 ## Addizione Nucleofila
-La reazione più comune. Il [[Carbonio]] viene [[Ibridizzazione|ibridizzato]] $sp^3$.
+La reazione più comune.
+>Può avvenire perchè il [[Carbonio]] ha parziale carica positiva, come negli [[Alogenuri Alchilici]].
+
+Il [[Carbonio]] diventa [[Ibridizzazione|ibridizzato]] $sp^3$.
+Può avvenire in due modi:
+1. Il nucleofilo attacca il [[Carbonio]]:
+![[Pasted image 20250521112901.png]]
+2. L'[[Ossigeno]] accetta un atomo di [[Idrogeno]].
+![[Pasted image 20250521112811.png]]
+![[Pasted image 20250521113120.png]]
+
+Si possono addizionare:
+#### [[Acqua]]
+Addizionando anche l'idrogeno si ottengono [[Alcoli#Polialcoli|Diòli Geminali]].
+![[Pasted image 20250521113850.png]]
+
+### [[Alcoli]]
+Facendo reagire le **Aldeidi** si ottengono gli [[Acetali e Chetali#Emiacetale e Emichetali|Emiacetali]] e poi le [[Acetali e Chetali|Acetali]].
+Facendo reagire i **Chetoni** si ottengono gli [[Acetali e Chetali#Emiacetale e Emichetali|Emichetali]] e poi i [[Acetali e Chetali|Chetali]]. 
+![[Pasted image 20250521113940.png]]
+### Ammoniaca e Ammine Primarie
+![[Pasted image 20250521114014.png]]
+
+### Idrazina
