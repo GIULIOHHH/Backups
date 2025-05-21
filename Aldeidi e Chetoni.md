@@ -17,6 +17,12 @@ Dato che il [[Gruppo Carbonilico]] è polarizzato, **Aldeidi** e **Chetoni** son
 - Possono formare [[Legami a Idrogeno]] con l'[[Acqua]] grazie al doppietto non condiviso dell'[[Ossigeno]].
 	- **Aldeidi** e **Chetoni** più leggeri sono solubili in [[Acqua]].
 - Non possono formare [[Legami a Idrogeno]] tra di loro.
+	- perchè non contengono $\ce{H}$ legate a $\ce{O}$.
 Hanno un punto di ebollizione superiore ai composti non polari, ma inferiore ai [[Alcoli|composti capaci]] di formare [[Legami a Idrogeno]].
 
+I **Chetoni** sono meno reattivi delle **Aldeidi**, perchè:
+- L'ingombro sterico maggiore rende più difficile l'attacco dei nucleofili.
+- Le [[Idrocarburi|Catene idrocarburiche]] polarizzano i loro legami verso l'atomo di [[Carbonio]] in $\ce{C-O}$ (gli inviano elettroni per l'[[Effetto Induttivo]]), diminuendo la sua carica parziale positiva.
 # Reazioni
+## Addizione Nucleofila
+La reazione più comune. Il [[Carbonio]] viene [[Ibridizzazione|ibridizzato]] $sp^3$.
