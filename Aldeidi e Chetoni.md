@@ -83,3 +83,4 @@ Lo [[Alcossido|Ione Alcossido]] può sottrarre uno ione all'[[Acqua]] per formar
 ## [[Alcoli#Riduzione|Riduzione di Aldeidi e Chetoni]]
 
 ## [[Ossidazione]] di **Aldeidi**
+Facendo reagire le **Aldeidi** con il *reattivo di Tollens* $\ce{Ag(NH3)}_2^+$ (ammoniaca e ioni argento), gli ioni argento si riducono ad argento metallico $\ce{Ag}$, che si deposita sulle pareti.
