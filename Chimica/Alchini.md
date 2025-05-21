@@ -22,7 +22,14 @@ Le reazioni degli Alchini sono simili a quelle degli [[Alcheni#Reazioni|Alcheni]
 ## Acidità
 L'idrogeno legato ad un carbonio di un triplo legame è debolmente [[Elettrofilo-Acido|Acido]] e può essere rimosso da una [[Nucleofilo-Base|Base]] forte.
 
-# [[Riduzione]]
+## [[Riduzione]]
 [[Ossidazione e Riduzione di Alcheni|Gli alchini possono essere idrogenati]], trasformandoli in [[Alcani]] *(come gli [[Alcheni]]).*
 
 Utilizzando dei catalizzatori miscelati *(come il palladio disattivato)* si può fermare la reazione all'[[Alcheni|Alchene]].
+
+## [[Idratazione]]
+L'[[Idratazione]] in ambiente acido e con $\ce{Hg^{2+}}$ permette di creare [[Aldeidi e Chetoni|Chetoni]].
+Si rompe il triplo legame:
+- L'ossigeno forma un doppio legame con un [[Carbonio]] (il più [[Sostituito]]).
+- Due atomi di idrogeno si legano all'altro [[Carbonio]].
+![[Pasted image 20250521103355.png]]

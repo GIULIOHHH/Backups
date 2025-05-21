@@ -20,3 +20,7 @@ Rottura del doppio legame grazie all'aggiunta di due gruppi $\ce{-OH}$.
 $$
 \ce{C_nH_{2n}}+\frac{3}{2}n\ce{O2}\rightarrow n\ce{CO2}+n\ce{H2O}
 $$
+
+## Ozonolisi
+Reazione di [[Ossidazione]] dove l'Ozono ($\ce{O3}$) rompe il doppio legame, formando [[Gruppo Carbonilico|Composti Carbonilici]], come [[Acidi Carbossilici]], [[Aldeidi e Chetoni]].
+![[Pasted image 20250521102621.png]]

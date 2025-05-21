@@ -37,6 +37,8 @@ Si ossidano in [[Aldeidi e Chetoni|Aldeidi]] che si ossidano in [[Acidi Carbossi
 ![[Pasted image 20250511214040.png]]
 Usando il clorocromato di piridinio $\ce{CCP}$ come reagente in ambiente senza acqua si può fermare la reazione allo stato di [[Aldeidi e Chetoni|Aldeide]] ([[Ossidazione#Ossidazione Blanda|Ossidazione Blanda]]).
 
+>In alternativa per ottenere l'[[Aldeidi e Chetoni|Aldeide]] possiamo distillarla mentre si forma.
+
 >Succede quando smaltiamo l'alcol etilico (lo trasformiamo in acqua).
 ## Alcoli Secondari
 Si ossidano in [[Aldeidi e Chetoni|Chetoni]].
