@@ -1,0 +1,1 @@
+Un [[Alcossido]] legato ad uno ione positivo.
