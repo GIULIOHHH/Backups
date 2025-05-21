@@ -54,12 +54,28 @@ Le **ammine** primarie si formano facendo reagire [[Ammoniaca]] con gli [[Alogen
 2. L'**ammina** primaria si ottiene facendo reagire il suo sale con una forte [[Nucleofilo-Base|Base]].
 ![[Pasted image 20250521143952.png]]
 Ripetendo la reazione con **ammine** primarie o secondarie invece dell'[[Ammoniaca]] si ottengono ammine secondarie o terziarie.
+Ripetendo la reazione con un **ammina** terziaria si ottiene un *sale di ammonio quaternario*.
 
-
-
+Oppure possono essere formate dalla [[Aldeidi e Chetoni#Ammoniaca e Ammine Primarie (reazione di **Amminazione Riduttiva**)|reazione di Amminazione Riduttiva di Aldeidi e Chetoni]].
 # Proprietà
 - L'azoto è molto elettronegativo, quindi sono molecole polari.
 - Per il doppietto elettronico non condiviso, tutte possono accettare legami a idrogeno.
 - **Ammine** primarie e secondarie possono donare [[legami a idrogeno]].
 	- perchè hanno atomi $\ce{H}$ legati a $\ce{N}$.
+- Sono [[Nucleofilo-Base|Basi deboli]].
+	- possono legarsi con ioni $\ce{H+}$.
+	- ![[Pasted image 20250521152701.png]]
+	- Le **ammine** aromatiche sono meno [[Nucleofilo-Base|Basiche]] dell'[[Ammoniaca]].
+		- L'[[Idrocarburi Aromatici|Anello Benzenico]] attrae verso di sé per [[Effetto Mesomerico]] il doppietto, che è meno capace di essere donato.
+	- Le **ammine** alifatiche sono più [[Nucleofilo-Base|Basiche]] dell'[[Ammoniaca]].
+		- Le [[Idrocarburi|Catene idrocarburiche]] polarizzano i loro legami verso l'atomo di Azoto (gli inviano elettroni per l'[[Effetto Induttivo]]), aumentando la sua carica negativa.
 
+FIX
+	- Le **ammine** terziare sono meno [[Nucleofilo-Base|Basiche]] delle **ammine** secondarie.
+		- questo è dovuto all'ingombro sterico, che rende più difficile l'accesso al doppietto elettronico.
+		- Per questo **ammine** terziare sono meno solubili.
+
+
+>- Le **ammine terziarie** sono meno [[Nucleofilo-Base|basiche]] delle **ammine secondarie**, soprattutto **in acqua**, a causa dell’**ingombro sterico** e della **scarsa idratazione** della forma protonata.
+    
+- Sono anche **meno solubili in acqua**, perché **non possono formare legami a idrogeno** (manca un H legato all’azoto) e sono più ingombranti.

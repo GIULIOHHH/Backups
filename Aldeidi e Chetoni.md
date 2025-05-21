@@ -56,18 +56,20 @@ Addizionando anche l'idrogeno si ottengono [[Alcoli#Polialcoli|Diòli Geminali]]
 Facendo reagire le **Aldeidi** si ottengono gli [[Acetali e Chetali#Emiacetale e Emichetali|Emiacetali]] e poi le [[Acetali e Chetali|Acetali]].
 Facendo reagire i **Chetoni** si ottengono gli [[Acetali e Chetali#Emiacetale e Emichetali|Emichetali]] e poi i [[Acetali e Chetali|Chetali]]. 
 ![[Pasted image 20250521113940.png]]
+### Idrazina
+Reagisce con l'Idrazina $\ce{NH2-NH2}$ per formare un [[Idrazone]].
+>La 2,4-dinitrofenilidrazina forma un reticolo cristallino in acqua. Per questo la reazione viene usata per controllare la presenza di [[Gruppo Carbonilico|Composti Carbonilici]].
 ### Ammoniaca e [[Ammine]] Primarie (reazione di **Amminazione Riduttiva**)
 Si formano le [[Immine]] o basi di Schiff.
 ![[Pasted image 20250521114014.png]]
 >è il primo stadio della reazione di Maillard.
 
-
-
-
-### Idrazina
-Reagisce con l'Idrazina $\ce{NH2-NH2}$ per formare un [[Idrazone]].
->La 2,4-dinitrofenilidrazina forma un reticolo cristallino in acqua. Per questo la reazione viene usata per controllare la presenza di [[Gruppo Carbonilico|Composti Carbonilici]].
-
+Le [[Immine]] poi possono reagire con:
+![[Alcoli#^d91a9a]] 
+Oppure:
+![[Alcoli#^22dcd6]]
+per essere [[Riduzione||Ridotte]] in [[Ammine]].
+>si rompe il doppio legame.
 ### Addizione Aldoica
 Una [[Nucleofilo-Base|Base]] può [[#Tautomeria|rimuovere un idrogeno]] in $\alpha$ per convertire **Aldeidi** e **Chetoni** nella loro [[Nucleofilo-Base#Basi Coniugate|Base Coniugata]] (chiamata *ione enolato* per entrambi).
 ![[Pasted image 20250521130037.png]]

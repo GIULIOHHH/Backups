@@ -1,1 +1,2 @@
-![[Pasted image 20250521144218.jpg]]
+[[Ammine]] dove l'Azoto forma un doppio legame con il carbonio.
+![[Pasted image 20250521152342.png]]

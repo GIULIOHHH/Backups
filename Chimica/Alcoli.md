@@ -86,9 +86,9 @@ Per ottenere gli alcoli, lo facciamo reagire con:
 e poi effettuiamo un [[Idrolisi]] in ambiente acido.
 ## Riduzione 
 Con uno di questi:
-1. idrogeno e [[Ossidazione e Riduzione di Alcheni#Riduzione|un metallo finemente suddiviso]] (tipo platino) 
-2. Sodio Boro Idruro $\ce{NaBH_4}$ 
-3. Litio Alluminio Idruro $\ce{LiAlH_4}$ 
+1. idrogeno e [[Ossidazione e Riduzione di Alcheni#Riduzione|un metallo finemente suddiviso]] (tipo platino)  ^22dcd6
+2. Sodio Boro Idruro $\ce{NaBH_4}$  ^d7c780
+3. Litio Alluminio Idruro $\ce{LiAlH_4}$  ^d91a9a
 
 Si possono ridurre [[Aldeidi e Chetoni|Aldeidi]] in **alcoli primari** e [[Aldeidi e Chetoni|Chetoni]] in **alcoli secondari**.
 # Proprietà fisiche
