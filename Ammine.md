@@ -48,3 +48,18 @@ Nominiamo gli aromatici come gli [[Idrocarburi Aromatici#Sostituenti|Idrocarburi
 >In questo caso [[Radice|met]][[Desinenza|il]] compare sia sull'anello che legato all'Azoto, quindi si scrive due volte.
 
 # Formazione
+Le **ammine** primarie si formano facendo reagire [[Ammoniaca]] con gli [[Alogenuri Alchilici]].
+1. Avviene una [[Alogenuri Alchilici#Sostituzione Nucleofila|Sostituzione Nucleofila]].
+![[Pasted image 20250521143320.png]]
+2. L'**ammina** primaria si ottiene facendo reagire il suo sale con una forte [[Nucleofilo-Base|Base]].
+![[Pasted image 20250521143952.png]]
+Ripetendo la reazione con **ammine** primarie o secondarie invece dell'[[Ammoniaca]] si ottengono ammine secondarie o terziarie.
+
+
+
+# Proprietà
+- L'azoto è molto elettronegativo, quindi sono molecole polari.
+- Per il doppietto elettronico non condiviso, tutte possono accettare legami a idrogeno.
+- **Ammine** primarie e secondarie possono donare [[legami a idrogeno]].
+	- perchè hanno atomi $\ce{H}$ legati a $\ce{N}$.
+
