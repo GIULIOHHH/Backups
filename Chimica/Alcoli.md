@@ -75,9 +75,7 @@ Se l'[[Alcheni|Alchene]] è asimmetrico, esiste un carbonio con numero minore, a
 ## [[Reattivi di Grignard]] (pronuncia gree-nyaa)
 Un reattivo di Grignard è un [[metallorganico]], dove il magnesio è legato ad un [[Alogeni|Alogeno]] ed ad un [[Idrocarburi|Radicale]]. 
 >[!done] **Formula**:
->$$
-\ce{R-Mg-X}
-$$
+>$$\ce{R-Mg-X}$$
 
 
 Per ottenere gli alcoli, lo facciamo reagire con:
@@ -91,9 +89,8 @@ Con uno di questi:
 1. idrogeno e [[Ossidazione e Riduzione di Alcheni#Riduzione|un metallo finemente suddiviso]] (tipo platino) 
 2. Sodio Boro Idruro $\ce{NaBH_4}$ 
 3. Litio Alluminio Idruro $\ce{LiAlH_4}$ 
-si possono [[Riduzione|ridurre]] [[Aldeidi]] e [[Chetoni]] in alcoli.
 
-
+Si possono ridurre [[Aldeidi e Chetoni|Aldeidi]] in **alcoli primari** e [[Aldeidi e Chetoni|Chetoni]] in **alcoli secondari**.
 # Proprietà fisiche
 Gli alcoli sono [[Polari]] perchè l'ossigeno è molto elettronegativo.
 ![[Pasted image 20250511173002.png]]

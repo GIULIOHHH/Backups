@@ -1,4 +1,4 @@
-# IUPAC
+ # IUPAC
 ## **Aldeidi**
 Si utilizza il nome della [[Idrocarburi#Idrocarburi Alifatici|Catena idrocarburica]] e si sostituisce l'ultima lettera con -**ale**.
 >[!quote] Esempio

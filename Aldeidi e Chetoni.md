@@ -22,8 +22,18 @@ Hanno un punto di ebollizione superiore ai composti non polari, ma inferiore ai 
 
 I **Chetoni** sono meno reattivi delle **Aldeidi**, perchè:
 - L'ingombro sterico maggiore rende più difficile l'attacco dei nucleofili.
-- Le [[Idrocarburi|Catene idrocarburiche]] polarizzano i loro legami verso l'atomo di [[Carbonio]] in $\ce{C-O}$ (gli inviano elettroni per l'[[Effetto Induttivo]]), diminuendo la sua c
-- rica parziale positiva.
+- Le [[Idrocarburi|Catene idrocarburiche]] polarizzano i loro legami verso l'atomo di [[Carbonio]] in $\ce{C-O}$ (gli inviano elettroni per l'[[Effetto Induttivo]]), diminuendo la sua carica parziale positiva.
+
+# Tautomeria
+Gli [[Idrogeno|Idrogeni]] in $\alpha$ (legati al [[Carbonio]] accanto al [[Gruppo Carbonilico]]) possono essere rimossi.
+Insieme al doppio legame, si possono spostare per creare la **forma enolica**.
+>dal [[Desinenza|Doppio legame]] (-en) e il [[Alcoli|Gruppo]] $\ce{OH}$ (-olo)
+
+![[Pasted image 20250521121802.png]]
+
+Questo equilibrio viene chiamato **Tautomeria cheto-enolica**. 
+L'atomo di idrogeno si stacca FISICAMENTE, quindi al contrario [[Idrocarburi Aromatici|delle Forme Limite di Risonanza]] (concetti limite per visualizzare il singolo [[Idrocarburi Aromatici|Ibrido di Risonanza]]), entrambe le forme **Tautomeriche** esistono realmente.
+>Anche se la forma chetonica è estremamente più comune.
 # Reazioni
 ## Addizione Nucleofila
 La reazione più comune.
@@ -47,6 +57,29 @@ Facendo reagire le **Aldeidi** si ottengono gli [[Acetali e Chetali#Emiacetale e
 Facendo reagire i **Chetoni** si ottengono gli [[Acetali e Chetali#Emiacetale e Emichetali|Emichetali]] e poi i [[Acetali e Chetali|Chetali]]. 
 ![[Pasted image 20250521113940.png]]
 ### Ammoniaca e Ammine Primarie
+Si formano le [[Immine]] o basi di Schiff.
 ![[Pasted image 20250521114014.png]]
-
+>è il primo stadio della reazione di Maillard.
 ### Idrazina
+Reagisce con l'Idrazina $\ce{NH2-NH2}$ per formare un [[Idrazone]].
+>La 2,4-dinitrofenilidrazina forma un reticolo cristallino in acqua. Per questo la reazione viene usata per controllare la presenza di [[Gruppo Carbonilico|Composti Carbonilici]].
+
+### Addizione Aldoica
+Una [[Nucleofilo-Base|Base]] può [[#Tautomeria|rimuovere un idrogeno]] in $\alpha$ per convertire **Aldeidi** e **Chetoni** nella loro [[Nucleofilo-Base#Basi Coniugate|Base Coniugata]] (chiamata *ione enolato* per entrambi).
+![[Pasted image 20250521130037.png]]
+Questo è favorito anche dalla stabilità della [[Nucleofilo-Base#Basi Coniugate|Base Coniugata]], dovuta alla [[Idrocarburi Aromatici|Delocalizzazione]] della carica negativa.
+![[Pasted image 20250521130342.png]]
+
+La [[Nucleofilo-Base#Basi Coniugate|Base Coniugata]] ora si comporta come un [[Nucleofilo-Base|Nucleofilo]].
+Il [[Carbonio]] con carica negativa può legarsi ad un **Aldeide** per formare uno [[Alcossido|Ione Alcossido]].
+![[Pasted image 20250521130614.png]]
+Lo [[Alcossido|Ione Alcossido]] può sottrarre uno ione all'[[Acqua]] per formare un **aldolo** o un **chetolo**.
+>unione tra un [[Alcoli|Alcol]] (-olo) e **aldeide** o un **chetolo** (ald- / chet-)
+
+![[Pasted image 20250521130725.png]]
+
+>Se la [[Nucleofilo-Base#Basi Coniugate|Base Coniugata]] è un **Aldeide** e si lega ad un **Chetone**, la reazione avviene con [[#Proprietà|Grandissima Difficoltà]]. (il prodotto che viene convertito è circa il 2%)
+>Se  [[Nucleofilo-Base#Basi Coniugate|Base Coniugata]] è un **Chetone** e si lega ad un **Chetone** si ha l'*addizione aldolica incrociata*.
+## [[Alcoli#Riduzione|Riduzione di Aldeidi e Chetoni]]
+
+## [[Ossidazione]] di **Aldeidi**
