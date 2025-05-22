@@ -24,7 +24,7 @@ Si elencano in ordine alfabetico i [[Radicali]] e si aggiunge **etere**.
 >![[Pasted image 20250520200734.png]]
 
 # Formazione
-Si formano tramite la **Sintesi di Williamson**, una reazione di [[Alogenuri Alchilici#Sostituzione Nucleofila|Sostituzione Nucleofila]] di un [[Alogenuri Alchilici|Alogenuro Alchilico]] con un sale di [[Alcossido]] ([[Alcossido]] legato ad uno [[Elettrofilo-Acido|Ione positivo]]).
+Si formano tramite la **Sintesi di Williamson**, una reazione di [[Alogenuri Alchilici#Sostituzione Nucleofila|Sostituzione Nucleofila]] di un [[Alogenuri Alchilici|Alogenuro Alchilico]] con un [[Alcolato]].
 ![[Pasted image 20250520223535.png]]
 # Proprietà
 - L'[[Ossigeno]] è molto elettronegativo, quindi polarizza i legami col carbonio. Tuttavia gli eteri non formano legami intermolecolari tra di loro, per via dell'ingombro sterico delle catene.

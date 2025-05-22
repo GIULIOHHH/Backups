@@ -4,7 +4,9 @@ Gli [[Alcoli]] Possono reagire sia come [[Nucleofilo-Base|Basi]] che come [[Elet
 # Rottura Legame $\ce{O-H}$ (comportamento [[Elettrofilo-Acido|Acido]])
 Sono [[Elettrofilo-Acido|Acidi]] debolissimi (forza acida $K_a$ minore dell'acqua, cedono difficilmente $\ce{H^+}$), quindi le [[Nucleofilo-Base#Basi Coniugate|Basi Coniugate]] sono [[Nucleofilo-Base|Basi]] forti (cercano di riottenere $\ce{H+}$ per tornare alla forma acida).
 
-La stabilità delle [[Nucleofilo-Base#Basi Coniugate|Basi Coniugate]] diminuisce dal primari a terziari.
+La stabilità delle [[Nucleofilo-Base#Basi Coniugate|Basi Coniugate]] aumenta passando da terziari a primari.
+
+>La basicità diminuisce passando da terziari a primari.
 ![[Pasted image 20250511205622.png]]
 
 [[Nucleofilo-Base#Stabilizzazione della Base Coniugata|quindi]] l'acidità aumenta passando da terziari a primari.![[Pasted image 20250511173725.png]]
@@ -25,7 +27,7 @@ l'[[Elettrofilo-Acido|Acido]] si lega all'ossigeno grazie al doppietto libero.
 ![[Pasted image 20250511210814.png]]
 Poi si può avere:
 - [[Sostituzione]] nucleofila (solo alcoli primari e secondari):
-Un altra molecola di alcol attacca il [[Carbocatione]] e successivamente abbandona uno ione $\ce{H^+}$
+Un altra molecola di alcol attacca il [[Carbocatione]] e successivamente abbandona uno ione $\ce{H^+}$, formando un [[Eteri|Etere]]
 ![[WhatsApp Image 2025-05-11 at 21.10.01.jpeg|0]]
 - [[Eliminazione]]:
 Un atomo di carbonio in $\beta$ abbandona uno ione $\ce{H^+}$ e si forma un [[Alcheni|Alchene]].
