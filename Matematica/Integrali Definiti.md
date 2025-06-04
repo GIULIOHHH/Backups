@@ -129,9 +129,12 @@ Abbiamo una funzione $A(x)$. Per ogni posizione $x_0$, $A(x)$ ci dà l'area in q
 >$$\int_a^{b}{A(x)}$$
 >Dove $A(x_0)$ è l'area in un punto $x_0$.
 
->Solitamente $A(x)$ dipende dalla funzione bidimensionale $f(x)$
+>Solitamente $A(x)$ dipende dalla funzione bidimensionale $f(x)$.
 
-# Volume del solido di rotazione attorno all'asse x/y
+>Quando parla di piani perpendicolari all'asse $x$ basta pensare a questo.
+>![[WhatsApp Image 2025-06-03 at 18.23.19.jpeg|300]]
+
+# Volume del solido di rotazione attorno all'asse x
 Il solido di rotazione è formato da tanti cerchi.
 L'area del cerchio è $A=\pi*r^2$. 
 
@@ -155,20 +158,46 @@ $$
 >X=x
 >$$
 >Sostituendo $Y$ a $y$ e $X$ a $x$ trasliamo la funzione.
-# Teorema fondamentale del calcolo integrale (fare meglio)
 
->![done] Formula
->La funzione integrale è definita come:
->$$
+# Asse Y
+Se uno dei confini della funzione ($a$ o $b$) è $x=0$ , posso usare la stessa formula di sopra.
+$$
+Vol=\int_a^b\pi*[f(x)]^2
+$$
+Altrimenti uso:
+## Metodo dei gusci cilindrici
+$$
+Vol=\int_{a}^{b}2\pi*x*f(x)
+$$
+
+### Spiegazione
+Per ogni valore $f(x_0)$, possiamo creare un guscio cilindrico.
+La funzione $A(x)$, che ci dà l'area in $x$ è quindi:
+$$
+A(x)=2\pi*x*f(x)
+$$
+Dove $2\pi*x$ è il perimetro del raggio e $f(x)$ è l'altezza del guscio cilindrico. 
+Integrando otteniamo il volume totale.
+![[bruh.png]]
+
+# Teorema fondamentale del calcolo integrale 
+>è la definizione di integrale definito.
+
+La funzione integrale
+$$
 F(x)=\int_a^xf(t)$$
-Quindi data una funzione ritorna l'area del trapezoide fino ad un punto $x$.
-Per ogni punto dell'intervallo:
+è una primitiva di $f(x)$ per ogni punto considerato.
 $$
 F^{'}(x)=f(x)
 $$
-quindi $F(x)$ è una primitiva di $f(x)$
+
+>Quindi data una funzione ritorna l'area del trapezoide da $a$ a $x$.
+>![[idk 1.png]]
+
+
 
 # Integrali Impropri
+
 # Esercizi
 
 ## Area compresa tra due curve
@@ -220,4 +249,25 @@ $$\int_{a}^{b}{f[g(x)]}*g^{'}(x)=\int_{g(a)}^{g(b)}f(t)$$
 > $$
 >-\frac{1}{3}*6=-2
 > $$
+
+
+
+## Trova la derivata partendo dall'Integrale
+Se
+$$
+F(x)=\int_{b(x)}^{a(x)}f(t)
+$$
+$$
+F^`(x)=a^`(x)*f(a(x))-b^`(x)*f(b(x))
+$$
+>[!quote] Esempio
+>Trova $F^`(x)$
+>$$F(x)=\int_x^{2x}3\sqrt{t-1}$$
+>Dobbiamo fare il dominio.
+>$$t-1\ge0$$
+>$$t\ge1$$
+>Applicando la formula
+>$$F^`(x)=2*[3\sqrt{(2x)-1}]-1*[3\sqrt{(x)-1}]$$
+>$$F^`(x)=6\sqrt{(2x)-1}-3\sqrt{(x)-1}$$
+
 

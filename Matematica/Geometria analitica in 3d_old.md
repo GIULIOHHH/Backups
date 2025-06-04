@@ -1,3 +1,4 @@
+# Rette in 3d
 Dato un punto e una retta/vettore normale esiste un solo piano passante per il punto e [[perpendicolare]] alla retta.
 Il vettore normale è $[a,b,c]$ quindi il piano è
 $$

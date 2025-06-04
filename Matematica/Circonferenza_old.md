@@ -36,7 +36,7 @@ Se x^2 e y^2 hanno coefficienti diversi da 1 DEVONO essere uguali, per poter div
 
 - se c=0 la circonferenza passa per l'origine
 - Se a=0 il centro si trova sull'asse y
-- Se b= il centro si trova sull'asse x
+- Se b=0 il centro si trova sull'asse x
 
 
 # Condizione di Realtà

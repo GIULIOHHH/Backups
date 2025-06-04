@@ -178,9 +178,9 @@ X^2+Y^2=1
 \end{cases}
 $$
 1. La prima è l'[[equazione]] di una [[Retta]] 
-2. La seconda è l'[[equazione]] di una [[Circonferenza]] con centro nell'origine e raggio 1
+2. La seconda è l'[[equazione]] di una [[Circonferenza_old]] con centro nell'origine e raggio 1
 
-Otteniamo 1/2 paia di coordinate, che corrispondono alle intersezioni tra [[Retta]] e [[Circonferenza]].
+Otteniamo 1/2 paia di coordinate, che corrispondono alle intersezioni tra [[Retta]] e [[Circonferenza_old]].
 
 In base a quelle possiamo trovare gli angoli.
 >Ad esempio se otteniamo X=1/2 e Y=√(3)/2, sappiamo che l'angolo è π/3+2kπ

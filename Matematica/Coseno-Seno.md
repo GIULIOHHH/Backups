@@ -52,7 +52,7 @@ $$
 ![[Drawing 2023-09-14 21.59.04.excalidraw]]
 # Prima Relazione Fondamentale
 
-- La [[Circonferenza]] goniometrica ha raggio 1.
+- La [[Circonferenza_old]] goniometrica ha raggio 1.
 - Pitagora è:$$
 i^2={c1}^2+{c2}^2
 $$

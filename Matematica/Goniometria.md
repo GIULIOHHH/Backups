@@ -71,7 +71,7 @@ $$
 
 # Circonferenza Goniometrica
 ![[Pasted image 20230914212120.png]]
-[[Circonferenza]] goniometria ha centro nell'origine O e raggio 1.
+[[Circonferenza_old]] goniometria ha centro nell'origine O e raggio 1.
 Il punto (0,1) è l'origine degli archi.
 
 ## Angoli orientati
@@ -90,7 +90,7 @@ Si può scrivere un qualsiasi angolo minore di 360 e tutti gli altri angoli che 
 $$
 \alpha+k2\pi \;\;\;\;\;\;\;\;\alpha+k360\degree
 $$
-(tutti questi angoli hanno la stessa posizione sulla [[Circonferenza]], solo che necessitano più giri)
+(tutti questi angoli hanno la stessa posizione sulla [[Circonferenza_old]], solo che necessitano più giri)
 
 ![[Drawing 2023-09-14 21.27.35.excalidraw]]
 Così ci spostiamo ogni volta di 180 gradi:
@@ -100,7 +100,7 @@ $$
 
 
 
-## Calcolare posizione sulla [[Circonferenza]] goniometrica
+## Calcolare posizione sulla [[Circonferenza_old]] goniometrica
 
 ![[Drawing 2023-09-14 21.32.56.excalidraw]]
 

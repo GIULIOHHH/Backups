@@ -16,7 +16,7 @@ $$
 $$
 sin(x)\ge \frac{\sqrt 2}{2}
 $$
-1. Consideriamo i punti della [[Circonferenza]] dove:
+1. Consideriamo i punti della [[Circonferenza_old]] dove:
 $$
 sin(x)= \frac{\sqrt 2}{2}
 $$
@@ -34,7 +34,7 @@ $$
 $$
 sin(x)<\frac{1}{2}
 $$
-1. Consideriamo i punti della [[Circonferenza]] dove:
+1. Consideriamo i punti della [[Circonferenza_old]] dove:
 $$
 sin(x)=\frac{1}{2}
 $$

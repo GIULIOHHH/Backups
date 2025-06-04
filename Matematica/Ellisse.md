@@ -52,7 +52,7 @@ $$
 \frac{x^2}{a^2}+\frac{y^2}{b^2}=1
 $$
 
-Una [[Circonferenza]] con centro in (0,0) e r=a
+Una [[Circonferenza_old]] con centro in (0,0) e r=a
 $$
 x^2+y^2=a^2
 $$
@@ -61,9 +61,9 @@ $$
 \frac{x^2}{a^2}+\frac{y^2}{a^2}=1
 
 $$
-Quindi la [[Circonferenza]] è un ellisse con assi di lunghezza uguale dove i fuochi coincidono.
+Quindi la [[Circonferenza_old]] è un ellisse con assi di lunghezza uguale dove i fuochi coincidono.
 
-- a = b [[Circonferenza]] 
+- a = b [[Circonferenza_old]] 
 - a > b fuochi asse x
 - a < b fuochi asse y
 
@@ -81,7 +81,7 @@ $$
 e=\frac{c}{a}
 $$
 
-- Se e=0 [[Circonferenza]] degenere.
+- Se e=0 [[Circonferenza_old]] degenere.
 - Se e=1 [[segmento]] degenere.
 - e non può essere maggiore di 1 perchè altrimenti i fuochi sarebbero esterni all'ellisse.
 ![[Drawing 2023-09-20 22.47.16.excalidraw]]

@@ -39,13 +39,13 @@ Immaginari
 - [[Retta]] 
 - [[Coniche]] 
 	- [[Parabola]] 
-	- [[Circonferenza]] 
+	- [[Circonferenza_old]] 
 	- [[Ellisse]] 
 	- [[Iperbole]] 
 - [[Limiti]]
 ## Geometria
 - [[Formule basi Geometria Analitica]] 
-- [[Geometria analitica in 3d]]
+- [[Geometria analitica in 3d_old]]
 - [[triangolo]] 
 - [[trigonometria]]
 ## Quinto Anno
@@ -60,6 +60,16 @@ Immaginari
 - [[Integrali Indefiniti]]
 - [[Integrali Definiti]]
 - [[Equazioni Differenziali]]
+
+
+
+## Geometria analitica redone
+- [[Circonferenza]]
+- [[Retta in 3d]]
+- [[Equazione del Piano]]
+- [[Geometria in 3d]]
+
+
 ---
 # __Fisica__
 ## [[Termologia]] 

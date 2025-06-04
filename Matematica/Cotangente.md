@@ -11,7 +11,7 @@ quindi
 $$
 cot(\alpha)=\frac{cos\alpha}{sin\alpha}
 $$
-La cotangente è la il segmento tangente alla [[Circonferenza]] sull'asse x, che interseca il prolungamento di OP.
+La cotangente è la il segmento tangente alla [[Circonferenza_old]] sull'asse x, che interseca il prolungamento di OP.
 ![[Pasted image 20231011160111.png]]
 YP deve necessariamente essere diverso da 0, quindi la cotangente
 __NON ESISTE QUANDO P SI TROVA SULL'ASSE X.
