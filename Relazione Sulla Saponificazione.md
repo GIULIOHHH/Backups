@@ -17,7 +17,7 @@ Composti derivanti dall'unione di alcoli e acidi con l'eliminazione di acqua ($\
 ## **Gliceridi**
 **Esteri** derivanti dall'unione tra la **glicerina** e **acidi grassi**.
 ## **Trigliceridi**
-Composti derivanti dall'unione tra una **glicerina** e tre **acidi grassi**.
+Esteri derivanti dall'unione tra una **glicerina** e tre **acidi grassi**.
 Sono la forma principale dei grassi negli alimenti e negli oli vegetali.
 Il carattere idrofobico deriva dall'eliminazione dei gruppi $\ce{-OH}$ fortemente idrofili.
 ## **Idrolisi**

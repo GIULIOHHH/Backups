@@ -1,4 +1,5 @@
 $\ce{-OH}$.
 
 
-Se è un sostituente lo chiamiamo idrossi.
+# Sostituente
+Se è un sostituente lo chiamiamo **idrossi-**.

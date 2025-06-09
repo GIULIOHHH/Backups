@@ -1,4 +1,4 @@
->[!Done] Formula
+ >[!Done] Formula
 >Composti dove due [[Radicali]] [[Idrocarburi|Idrocarburici]] sono legati ad un atomo di ossigeno.
 $$\ce{R-O-R^`}$$
 $$\ce{Ar-O-Ar^`}$$

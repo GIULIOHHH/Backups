@@ -27,7 +27,7 @@ l'[[Elettrofilo-Acido|Acido]] si lega all'ossigeno grazie al doppietto libero.
 ![[Pasted image 20250511210814.png]]
 Poi si può avere:
 - [[Sostituzione]] nucleofila (solo alcoli primari e secondari):
-Un altra molecola di alcol attacca il [[Carbocatione]] e successivamente abbandona uno ione $\ce{H^+}$, formando un [[Eteri|Etere]]
+Un altra molecola di alcol attacca il [[Carbocatione]] e successivamente abbandona uno ione $\ce{H^+}$, formando un [[Eteri|Etere]].
 ![[WhatsApp Image 2025-05-11 at 21.10.01.jpeg|0]]
 - [[Eliminazione]]:
 Un atomo di carbonio in $\beta$ abbandona uno ione $\ce{H^+}$ e si forma un [[Alcheni|Alchene]].
