@@ -9,7 +9,7 @@ $$
 $$
 \frac{y-y_1}{a}=\frac{x-x_1}{b}
 $$
-$a$ e $b$ formano un vettore che viene ripetuto per formare la retta.
+$a$ e $b$ formano un vettore che viene ripetuto per formare la retta.  $v=(a,b)$
 ![[Pasted image 20250604110726.png]]
 
 >Quindi una retta può essere definita da un punto e un vettore.
@@ -72,4 +72,11 @@ Due rette sono sghembe se non sono parallele ma non si intersecano (sono su pian
 # Esercizi
 - Per passare dalla Retta come intersezione di piani all'equazione parametrica basta imporra $x$, $y$ o $z$ come $=k$
 
-# Distanza Punto Retta
+## Distanza Punto Retta
+1. Ottengo il vettore direzione della retta.
+2. Nell'equazione del piano ($ax+by+cz+d=0$)
+	1. Sostituisco $a$ $b$ e $c$ con i parametri del vettore direzione.
+	2. Sostituisco $x$ $y$ e $z$ con le coordinate del punto.
+		1. Mi trovo $d$.
+	3. Rimetto $x$ $y$ e $z$
+3. Mi trovo l'intersezione tra piano e retta.

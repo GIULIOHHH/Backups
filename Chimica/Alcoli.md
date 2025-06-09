@@ -72,17 +72,12 @@ Alcol [[Idrocarburi|Radical]]**ico.**
  [[Addizione di Alcheni|Aggiungendo acqua]] ad un [[Alcheni|Alchene]] si formano alcoli Secondari e Terziari per la [[Addizione di Alcheni#Reagenti Asimmetrici|Regola di Markovnikov]] (Se l'[[Alcheni|Alchene]] è [[Addizione di Alcheni#Alcheni Simmetrici|Simmetrico si possono formare alcol primari]]).
 Se l'[[Alcheni|Alchene]] è asimmetrico, esiste un carbonio con numero minore, a cui si lega l'[[Elettrofilo-Acido|Idrogeno]] ed un carbonio con numero maggiore, a cui si lega l'[[Nucleofilo-Base|Idrossido]]. 
 ![[Pasted image 20250511165520.png]]
-## [[Reattivi di Grignard]] (pronuncia gree-nyaa)
-Un reattivo di Grignard è un [[metallorganico]], dove il magnesio è legato ad un [[Alogeni|Alogeno]] ed ad un [[Idrocarburi|Radicale]]. 
->[!done] **Formula**:
->$$\ce{R-Mg-X}$$
+## [[Reattivo di Grignard]] 
+Per ottenere gli alcoli facciamo reagire un [[Reattivo di Grignard]] con:
 
-
-Per ottenere gli alcoli, lo facciamo reagire con:
-
-- **Formaldeide** ($\ce{HCHO}$): Alcoli primari.
-- **[[Aldeidi e Chetoni|Aldeidi]]** ($RCHO$): Alcoli secondari.
-- [[Aldeidi e Chetoni|Chetoni]]: Alcoli terziari.
+- **Formaldeide** ($\ce{HCHO}$) -> Alcoli primari.
+- **[[Aldeidi e Chetoni|Aldeidi]]** ($RCHO$) -> Alcoli secondari.
+- [[Aldeidi e Chetoni|Chetoni]] -> Alcoli terziari.
 e poi effettuiamo un [[Idrolisi]] in ambiente acido.
 ## Riduzione 
 Con uno di questi:

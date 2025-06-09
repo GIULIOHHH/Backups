@@ -5,4 +5,4 @@ Possiamo considerare questi composti come unioni tra [[Idrocarburi Aromatici|Rad
 	1. [[Reazioni degli Alcoli]]
 3. [[Fenoli]]
 4. [[Eteri]]
-5. [[Tioli e Tioeteri]]
+5. [[Tioli e Tioeteri]] (non da fare)

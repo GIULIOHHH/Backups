@@ -1,4 +1,4 @@
-[[FIGURE RETORICHE]]
+e[[FIGURE RETORICHE]]
 # __Matematica__
 ## [[Goniometria]] 
 ### terzo anno
@@ -141,5 +141,7 @@ Principi della Termodinamica:
 ## [[Capitolo Gruppi Funzionali]]
 
 ## [[Capitolo Carbonile e Eterocicli]]
+
+## [[Capitolo Biochimica]]
 
 [[Relazione Sulla Saponificazione]]

@@ -1,4 +1,4 @@
-Il Polimero è una molecola lunghissima formata da una ripetizione di monomeri.
+Il Polimero è una molecola lunghissima formata da una ripetizione di **monomeri**.
 
 >[!Quote] Esempio
 >Il polietilene è formato dalla ripetizione dell'[[Alcheni|Etilene]].
@@ -16,4 +16,5 @@ Il Polimero è una molecola lunghissima formata da una ripetizione di monomeri.
 >![[Pasted image 20250317152434.png]]
 >
 
-
+# Dimeri
+Molecole formate dall'unione di due **monomeri**.
