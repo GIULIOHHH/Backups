@@ -1,0 +1,2 @@
+- I segmenti orizzontali sono gruppi sopra il foglio verso l'osservatore.
+- I segmenti verticali sono gruppi sotto il foglio che si allontanano dall'osservatore.

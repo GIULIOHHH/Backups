@@ -1,5 +1,5 @@
 >[!Done] Formula
->Le **Aldeidi** sono Composti con un [[Gruppo Carbonilico]] legato ad un atomo di idrogeno e un [[Radicali|Radicale]] [[Idrocarburi|Idrocarburico]] qualsiasi.
+>Le s**Aldeidi** sono Composti con un [[Gruppo Carbonilico]] legato ad un atomo di idrogeno e un [[Radicali|Radicale]] [[Idrocarburi|Idrocarburico]] qualsiasi.
 >![[Pasted image 20250521085850.png]]
 >I **Chetoni** sono Composti con un [[Gruppo Carbonilico]] legato a due [[Radicali]] [[Idrocarburi|Idrocarburici]] qualsiasi.
 >![[Pasted image 20250521090309.png]]
@@ -56,6 +56,7 @@ Addizionando anche l'idrogeno si ottengono [[Alcoli#Polialcoli|Diòli Geminali]]
 Facendo reagire le **Aldeidi** si ottengono gli [[Acetali e Chetali#Emiacetale e Emichetali|Emiacetali]] e poi le [[Acetali e Chetali|Acetali]].
 Facendo reagire i **Chetoni** si ottengono gli [[Acetali e Chetali#Emiacetale e Emichetali|Emichetali]] e poi i [[Acetali e Chetali|Chetali]]. 
 ![[Pasted image 20250521113940.png]]
+>Dato che si va da due molecole a una, la reazione è sfavorita dal punto di vista entropico.
 ### Idrazina
 Reagisce con l'Idrazina $\ce{NH2-NH2}$ per formare un [[Idrazone]].
 >La 2,4-dinitrofenilidrazina forma un reticolo cristallino in acqua. Per questo la reazione viene usata per controllare la presenza di [[Gruppo Carbonilico|Composti Carbonilici]].
