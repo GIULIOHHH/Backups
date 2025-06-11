@@ -61,7 +61,7 @@ Immaginari
 - [[Integrali Definiti]]
 - [[Equazioni Differenziali]]
 
-
+- [[Densità di Probabilità]]
 
 ## Geometria analitica redone
 - [[Circonferenza]]
