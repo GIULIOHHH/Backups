@@ -6,7 +6,8 @@
 
 >Il [[Gruppo Carbossilico|Carbossile]] è formato da [[Gruppo Carbonilico|Carbonile]] + [[Gruppo Ossidrilico|Ossidrile]].
 
-Gli **Acidi Grassi** sono **Acidi Carbossilici** con una lunga catena.
+
+Gli [[Acidi Grassi]] sono **Acidi Carbossilici** con una lunga catena.
 # Nomenclatura
 >Sono molto comuni in natura, quindi sono stati tra i primi composti ad essere studiati. Per questo esistono moltissimi nomi comuni che dipendono dalla fonte dell'acido.
 
