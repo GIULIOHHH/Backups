@@ -1,1 +1,3 @@
-[[Isomeri]] dove gli stessi atomi formano gruppi funzionali diversi.
+>[!Done] Definizione 
+>[[Isomeri]] dove gli stessi atomi formano gruppi funzionali diversi.
+

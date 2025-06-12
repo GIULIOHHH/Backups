@@ -62,7 +62,7 @@ Immaginari
 - [[Equazioni Differenziali]]
 
 - [[Densità di Probabilità]]
-
+- [[Calcolo Combinatorio]]
 ## Geometria analitica redone
 - [[Circonferenza]]
 - [[Retta in 3d]]

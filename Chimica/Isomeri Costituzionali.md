@@ -1,5 +1,5 @@
-- [[Isomeri]] dove gli stessi atomi formano strutture diverse.
-- I due [[Isomeri]] hanno la stessa [[Formula Bruta]] ma legami diversi.
+>[!Done] Definizione
+> [[Isomeri]] dove gli stessi atomi formano legami diversi.
 
 Esistono tre tipi di isomeri costituzionali:
 - [[Isomeri di Catena]]

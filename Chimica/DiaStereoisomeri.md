@@ -1,1 +1,1 @@
-[[Carbonio Asimmetrico#Stereoisomeri|Stereoisomeri]] non specchiati.
+[[Stereoisomeri]] non specchiati.

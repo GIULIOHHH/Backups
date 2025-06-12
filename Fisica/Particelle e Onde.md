@@ -130,6 +130,23 @@ L'intensità di [[Induzione Elettromagnetica#Corrente Alternata|Corrente]] è pr
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Un fotone diffuso ha una lunghezza d'onda maggiore e un'energia minore del fotone incidente.
 
 

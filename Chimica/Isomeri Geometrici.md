@@ -1,5 +1,5 @@
-
-[[Isomeri]] con una diversa simmetria rispetto a un [[Legame Chimico|Doppio legame]] o una [[Struttura Ciclica]].
+>[!Done] Definizione 
+>[[Stereoisomeri]] con una diversa simmetria rispetto a un [[Legame Chimico|Doppio legame]] o una [[Struttura Ciclica]].
 
 # $2$ [[Sostituenti]] diversi
 >![[Pasted image 20250316135157.png]]
