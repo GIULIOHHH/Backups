@@ -1,5 +1,5 @@
 >[!Done] Formula
->Le Ammine derivano dall'[[Ammoniaca]], con la sostituzione di uno o più atomi di [[Idrogeno]] con [[Radicali]] [[Idrocarburi|Idrocarburici]] qualsiasi.
+>Le Ammine derivano dall'[[Ammoniaca]], con la sostituzione di uno o più atomi di [[Idrogeno]] con [[Radicali Liberi]] [[Idrocarburi|Idrocarburici]] qualsiasi.
 
 Si dividono in primarie, secondarie e terziarie, in base al numero di atomi di [[Carbonio]] legati all'Azoto.
 ![[Pasted image 20250521131935.png]]
@@ -10,7 +10,7 @@ L'atomo di Azoto è [[Ibridizzazione|Ibridizzato]] $sp^3$, ma ha un doppietto el
 # Nomenclatura
 
 ## Tradizionale
-Per i composti [[Idrocarburi#Idrocarburi Alifatici|alifatici]] si elencano i [[Radicali]] in ordine alfabetico e si aggiunge **ammina**.
+Per i composti [[Idrocarburi#Idrocarburi Alifatici|alifatici]] si elencano i [[Radicali Liberi]] in ordine alfabetico e si aggiunge **ammina**.
 >[!quote] Esempio
 >![[Pasted image 20250521133407.png]]
 >![[Pasted image 20250521133509.png]]

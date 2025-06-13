@@ -1,4 +1,4 @@
-Sono formati da un [[Radicali|Radicale]] [[Idrocarburi#Idrocarburi Alifatici|Alifatico]] legato ad un atomo di [[Ossigeno]].
+Sono formati da un [[Radicali Liberi|Radicale]] [[Idrocarburi#Idrocarburi Alifatici|Alifatico]] legato ad un atomo di [[Ossigeno]].
 $$
 \ce{-}\ce{R}\ce{-}\ce{O}\ce{-}
 $$

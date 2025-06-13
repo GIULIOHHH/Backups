@@ -336,5 +336,11 @@ $$
 {K=mc^2(\frac{1}{\sqrt{1-\frac{v^2}{c^2}}}-1)}{}{}{}{}{}{}
 $$
 >Quando $v$ -> $c$, $K$ -> $\infty$, ma come sappiamo dal [[Teorema dell'energia cinetica]], servirebbe un lavoro infinito per un energia cinetica infinita, ma questo è impossible.
+
+>[!Done] Energia di un corpo in movimento
+>$$
+E^2=p^2c^2+m^2c^4
+>$$
+
 # Trasformazioni di Lorenz
 

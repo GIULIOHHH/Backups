@@ -102,7 +102,7 @@ Il lavoro minimo per far fuggire l'elettrone dall'attrazione del reticolo metall
 ## Fotoni
 
 >[!Done] Legge
->*Einstein* ipotizza che la luce di [[Frequenza]] $f$ è formata da un insieme di particelle chiamate fotoni, con energia:
+>*Einstein* ipotizza che la luce di [[Frequenza]] $f$ è formata da un insieme di particelle chiamate fotoni con massa nulla e energia:
 >$$E=h*f\;\;\;\;\;\;\;\;\;[J]$$dove $h$ è la costante di Planck.
 
 >La luce non è distribuita in modo continuo, ma formata da un insieme di *quanti*.
@@ -126,32 +126,81 @@ L'intensità di [[Induzione Elettromagnetica#Corrente Alternata|Corrente]] è pr
 
 
 # Effetto Compton
+Dei [[Equazioni Di Maxwell#Raggi X|Raggi X]] colpiscono gli elettroni della grafite (considerati fermi e liberi).
+Secondo l'[[Equazioni Di Maxwell#Onde Elettromagnetiche|Interpretazione ondulatoria]] della [[Luce]], gli elettroni dovrebbero oscillare con la stessa frequenza dei [[Equazioni Di Maxwell#Raggi X|Raggi X]], per poi emettere un onda sferica con la stessa frequenza. 
+>Questo avviene perchè l'elettrone diventa un [[Equazioni Di Maxwell#Esempio (semplificato in solo una direzione!)|antenna]].
+
+Sperimentalmente si osserva che una parte della radiazione ha la stessa frequenza dei [[Equazioni Di Maxwell#Raggi X|Raggi X]], mentre un altra ha una frequenza minore dipendente dall'angolo del rilevatore.
+
+Se consideriamo la luce come un insieme di fotoni, possiamo modellare l'interazione tra fotoni ed elettroni come un urto elastico. Dato che l'energia si conserva:
+$$
+E_i=E_f+K_e
+$$
+
+>Dove $E_i$ è l'energia del fotone incidente, $E_f$ è l'energia del fotone irradiato e $K_e$ è l'energia cinetica dell'elettrone.
+
+Dato che $E=hf$, possiamo scrivere:
+$$
+hf=hf^`+K
+$$
+Dato che $K$ è positivo, $hf^`<hf$.
+Sappiamo che$$
+f=\frac{c}{\lambda}
+$$
+E che l'[[Energia Cinetica]] è:
+$$
+K=\frac{1}{2}mv^2
+$$
+Sostituendo 
+$$
 
 
 
+\frac{hc}{\lambda}=\frac{hc}{\lambda^`}+\frac{1}{2}m_ev_e^2 
+$$
 
+Sempre perchè l'energia si conserva:
+$$
 
+\overrightarrow{p_i}=\overrightarrow{p_f}+\overrightarrow{p_e}
+$$
+>$p_i$ è la [[Quantità Di Moto]] del fotone incidente, $p_f$ è la [[Quantità Di Moto]] del fotone irradiato e $p_e$ è la [[Quantità Di Moto]] dell'elettrone.
 
+Sappiamo che per i fotoni la quantità di moto è:
+$$
+p=\frac{E}{c}
+$$
+Quindi sostituendo $E=hf$ e $c=\lambda f$:
+$$
+p=\frac{h}{\lambda}
+$$
+Il fotone incidente si muove solo lungo l'asse $x$.
+$$
+\overrightarrow{p_i}=\frac{h}{\lambda}\hat{x}
+$$
+![[Pasted image 20250613141321.png]]
+>Per convenzione facciamo andare l'elettrone in alto e il fotone in basso.
 
+Il fotone si muove con un angolo $\theta$ rispetto all'asse $x$:
+$$
+\overrightarrow{p_f}=\frac{h}{\lambda^`}*cos\theta\:\hat{x}\:-\frac{h}{\lambda^`}*sin\theta\:\hat{y}
+$$
+L'elettrone si muove con un angolo φ rispetto all'asse $x$:
+$$
+\overrightarrow{p_e}=m_e*v_e*cosφ\:\hat{x}\:+m_e*v_e*sinφ\:\hat{y}
+$$
+>Usiamo la formula per la [[Quantità Di Moto]] $p=m*v$
 
+Quindi sostituendo nell'equazione della conservazione della quantità di moto:
+$$
+\frac{h}{\lambda}\hat{x}=(\frac{h}{\lambda^`}*cos\theta+m_e*v_e*cosφ)\:\hat{x}\:+(-\frac{h}{\lambda^`}*sin\theta+m_e*v_e*sinφ)\:\hat{y}
+$$
+Utilizzando quest'equazione e quella dell'energia ($\frac{hc}{\lambda}=\frac{hc}{\lambda^`}+\frac{1}{2}m_ev_e^2$), possiamo ottenere:
 
-
-
-
-
-
-
-
-
-
-
-
-
-Un fotone diffuso ha una lunghezza d'onda maggiore e un'energia minore del fotone incidente.
-
-
+>[!Done] Formula
 La variazione della lunghezza d'onda del fotone incidente è
-$$
-\Delta \lambda=\frac{h}{mc}*(1-cos({\alpha)})
-$$
+>$$\Delta \lambda=\frac{h}{m_ec}*(1-cos({\theta)})$$
+>$\frac{h}{m_ec}$ si chiama _Lunghezza di Compton_, (è una costante).
 
+I raggi X con la stessa frequenza dei fotoni incidenti avvengono perchè alcuni fotoni si scontrano contro elettroni più interni (e quindi più legati all'atomo). In questo caso invece di $m_e$ (massa elettrone) usiamo la massa di tutto l'atomo.
+Dato che la sua massa è molto maggiore, la nuova lunghezza d'onda è praticamente identica all'originale.

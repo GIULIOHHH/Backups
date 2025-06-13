@@ -14,7 +14,7 @@ Si usa la [[Desinenza]] **-ene**.
 >2. Et**ene** *(detto anche Etilene)*
 >3. Prop**ene** *(detto anche Propilene)*
 >4. But**ene**
-## [[Radicali]]
+## [[Radicali Liberi]]
 - Si usa la [[Desinenza]] **-enil**.
 A volte si usano anche dei nomi comuni:
 

@@ -66,6 +66,6 @@ Derivano dai [[Acidi Carbossilici#Tradizionali|nomi tradizionali degli Acidi Car
 >Diventa:
 >![[Pasted image 20250521100343.png]]
 ## **Chetoni**
-Si elencano in ordine alfabetico i nomi dei [[Radicali]] e si aggiunge **chetone**.
+Si elencano in ordine alfabetico i nomi dei [[Radicali Liberi]] e si aggiunge **chetone**.
 >[!quote] Esempio
 ![[Pasted image 20250521092857.png]]

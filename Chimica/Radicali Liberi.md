@@ -1,0 +1,6 @@
+- Composti con un atomo di carbonio con quatto elettroni, di cui uno spaiato.
+- L'atomo di carbonio è ibridizzato $sp^2$ e l'elettrone libero è nell'orbitale non ibridizzato.
+-  Si dividono in metilici. primari, secondari e terziari.
+	- Più riesce a delocalizzare l'elettrone libero più è stabile.
+	- I radicali terziari sono i più stabili.
+- ![[Pasted image 20250613000551.png]]

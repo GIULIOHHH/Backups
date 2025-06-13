@@ -14,7 +14,7 @@ Si usa la [[Desinenza]] **-ino**.
 >2. Et**ino** *(detto anche acEtilene)*
 >3. Prop**ino** 
 >4. But**ino**
-## [[Radicali]]
+## [[Radicali Liberi]]
 Si usa la [[Desinenza]] **-inil**.
 
 # Reazioni

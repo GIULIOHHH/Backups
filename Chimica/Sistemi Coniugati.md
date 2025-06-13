@@ -1,0 +1,1 @@
+Alternanza di legami singoli e legami doppi.

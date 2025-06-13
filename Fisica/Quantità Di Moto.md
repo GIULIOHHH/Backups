@@ -13,6 +13,7 @@ $$
 $$
 ---
 # Nel caso di particelle prive di massa
+>Questo è perchè $E^2=c^2p^2+m^2c^4$
 $$
 p=\frac{E}{v}
 $$

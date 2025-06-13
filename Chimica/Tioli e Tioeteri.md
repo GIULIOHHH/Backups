@@ -1,7 +1,7 @@
 >[!Done] Definizione:
->I **Tioli** derivano dall'[[Acido Solfidrico]], con la sostituzione di un [[Idrogeno]] con un [[Radicali|Radicale]] [[Idrocarburi|Idrocarburico]] ([[Idrocarburi#Idrocarburi Aromatici|Aromatico]] o [[Idrocarburi#Idrocarburi Alifatici|Alifatico]])
+>I **Tioli** derivano dall'[[Acido Solfidrico]], con la sostituzione di un [[Idrogeno]] con un [[Radicali Liberi|Radicale]] [[Idrocarburi|Idrocarburico]] ([[Idrocarburi#Idrocarburi Aromatici|Aromatico]] o [[Idrocarburi#Idrocarburi Alifatici|Alifatico]])
 >$$\ce{R-S-H}$$
->I **Tioeteri** (o **solfuri**) derivano dall'[[Acido Solfidrico]], con la sostituzione di due idrogeni con un [[Radicali|Radicale]] [[Idrocarburi|Idrocarburico]] ([[Idrocarburi#Idrocarburi Aromatici|Aromatico]] o [[Idrocarburi#Idrocarburi Alifatici|Alifatico]])
+>I **Tioeteri** (o **solfuri**) derivano dall'[[Acido Solfidrico]], con la sostituzione di due idrogeni con un [[Radicali Liberi|Radicale]] [[Idrocarburi|Idrocarburico]] ([[Idrocarburi#Idrocarburi Aromatici|Aromatico]] o [[Idrocarburi#Idrocarburi Alifatici|Alifatico]])
 >$$\ce{R-S-R^`}$$
 >I **disolfuri** sono formati da due radicali legati a due atomi di zolfo:
 >$$

@@ -1,10 +1,10 @@
  >[!Done] Formula
->Composti dove due [[Radicali]] [[Idrocarburi|Idrocarburici]] sono legati ad un atomo di ossigeno.
+>Composti dove due [[Radicali Liberi]] [[Idrocarburi|Idrocarburici]] sono legati ad un atomo di ossigeno.
 $$\ce{R-O-R^`}$$
 $$\ce{Ar-O-Ar^`}$$
 $$\ce{R-O-Ar}$$
 
->I due [[Radicali]] possono anche essere diversi. 
+>I due [[Radicali Liberi]] possono anche essere diversi. 
 
 Anche gli [[Epossidi]] sono **eteri**.
 # Nomenclatura
@@ -17,7 +17,7 @@ Si da alla catena più lunga il nome dell'[[Idrocarburi|Idrocarburo]] e si consi
 >è un [[Alchile|metil]] legato ad un atomo di ossigeno, quindi metossi.
 
 ## Comune
-Si elencano in ordine alfabetico i [[Radicali]] e si aggiunge **etere**.
+Si elencano in ordine alfabetico i [[Radicali Liberi]] e si aggiunge **etere**.
 >[!Quote] Esempio
 >![[Pasted image 20250520200641.png]]
 >![[Pasted image 20250520200706.png]]
