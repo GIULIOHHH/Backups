@@ -32,7 +32,7 @@ Può essere [[#Riflessione|Riflessa]] da alcuni tipi di oggetti e assorbita da a
 __Il raggio incidente, il raggio riflesso e la [[normale]] alla superficie riflettente nel punto di incidenza, giacono tutti sullo stesso piano__.
 
 >Quando dobbiamo definire un angolo è quello tra il raggio e la normale.
-
+z
 L'angolo di incidenza $\theta_i$ è l'angolo tra il raggio incidente e la [[normale]].
 L'angolo di riflessione $\theta_r$ è l'angolo tra il raggio riflesso e la [[normale]].
 Questi due angoli sono uguali

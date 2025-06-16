@@ -131,6 +131,7 @@ Principi della Termodinamica:
 [[Equazioni Di Maxwell]]
 [[Relatività Ristretta]]
 [[Particelle e Onde]]
+[[Relatività Generale]]
 
 ---
 # **Chimica**
